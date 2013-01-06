@@ -1,0 +1,130 @@
+./gram.y: 在函数‘yyparse’中:
+./gram.y:394:5: 警告： 隐式常量转换溢出 [-Woverflow]
+./sem.c: 在函数‘getdevbase’中:
+./sem.c:326:3: 警告： 隐式常量转换溢出 [-Woverflow]
+/tmp/ccpdYiW7.o: In function `yylex':
+lex.yy.c:(.text+0x3b6): undefined reference to `intern'
+lex.yy.c:(.text+0x3d6): undefined reference to `intern'
+lex.yy.c:(.text+0x3f1): undefined reference to `intern'
+lex.yy.c:(.text+0x41d): undefined reference to `intern'
+/tmp/ccpdYiW7.o: In function `include':
+lex.yy.c:(.text+0x1f2e): undefined reference to `setupdirs'
+lex.yy.c:(.text+0x1f84): undefined reference to `sourcepath'
+lex.yy.c:(.text+0x1fee): undefined reference to `emalloc'
+lex.yy.c:(.text+0x2089): undefined reference to `intern'
+/tmp/ccpdYiW7.o: In function `endinclude':
+lex.yy.c:(.text+0x20d6): undefined reference to `panic'
+/tmp/ccTAuakV.o: In function `yyparse':
+y.tab.c:(.text+0x4bf): undefined reference to `checkfiles'
+y.tab.c:(.text+0x4f1): undefined reference to `newnv'
+y.tab.c:(.text+0x565): undefined reference to `newnv'
+y.tab.c:(.text+0x5d9): undefined reference to `addfile'
+y.tab.c:(.text+0x60e): undefined reference to `addobject'
+y.tab.c:(.text+0x67b): undefined reference to `newnv'
+y.tab.c:(.text+0x6de): undefined reference to `newnv'
+y.tab.c:(.text+0x741): undefined reference to `newnv'
+y.tab.c:(.text+0x7b3): undefined reference to `newnv'
+y.tab.c:(.text+0x92a): undefined reference to `defoption'
+y.tab.c:(.text+0xa75): undefined reference to `newnv'
+y.tab.c:(.text+0xacd): undefined reference to `newnv'
+y.tab.c:(.text+0xb9a): undefined reference to `newnv'
+y.tab.c:(.text+0xc75): undefined reference to `newnv'
+y.tab.c:(.text+0xccd): undefined reference to `newnv'
+/tmp/ccTAuakV.o:y.tab.c:(.text+0xd32): more undefined references to `newnv' follow
+/tmp/ccTAuakV.o: In function `yyparse':
+y.tab.c:(.text+0xdf4): undefined reference to `intern'
+y.tab.c:(.text+0xe88): undefined reference to `newnv'
+y.tab.c:(.text+0xee0): undefined reference to `newnv'
+y.tab.c:(.text+0x105e): undefined reference to `addmkoption'
+y.tab.c:(.text+0x1075): undefined reference to `removeoption'
+y.tab.c:(.text+0x108c): undefined reference to `removeoption'
+y.tab.c:(.text+0x10a8): undefined reference to `addoption'
+y.tab.c:(.text+0x10d0): undefined reference to `addoption'
+y.tab.c:(.text+0x11eb): undefined reference to `newnv'
+y.tab.c:(.text+0x1241): undefined reference to `newnv'
+y.tab.c:(.text+0x13af): undefined reference to `newnv'
+y.tab.c:(.text+0x1408): undefined reference to `newnv'
+/tmp/ccTAuakV.o: In function `cleanup':
+y.tab.c:(.text+0x180e): undefined reference to `nvfree'
+/tmp/ccTAuakV.o: In function `setmachine':
+y.tab.c:(.text+0x1919): undefined reference to `strlcpy'
+/tmp/ccBXCYWI.o: In function `initsem':
+sem.c:(.text+0x5): undefined reference to `ht_new'
+sem.c:(.text+0x48): undefined reference to `ht_new'
+sem.c:(.text+0x6a): undefined reference to `ht_new'
+sem.c:(.text+0xb2): undefined reference to `intern'
+sem.c:(.text+0xc3): undefined reference to `intern'
+/tmp/ccBXCYWI.o: In function `defattr':
+sem.c:(.text+0x268): undefined reference to `emalloc'
+sem.c:(.text+0x288): undefined reference to `ht_insrep'
+sem.c:(.text+0x2ba): undefined reference to `nvfreel'
+sem.c:(.text+0x2fc): undefined reference to `nvfree'
+/tmp/ccBXCYWI.o: In function `addtoattr':
+sem.c:(.text+0x3d7): undefined reference to `newnv'
+/tmp/ccBXCYWI.o: In function `defdev':
+sem.c:(.text+0x4ba): undefined reference to `newnv'
+sem.c:(.text+0x53b): undefined reference to `nvfreel'
+sem.c:(.text+0x547): undefined reference to `nvfreel'
+/tmp/ccBXCYWI.o: In function `getdevbase':
+sem.c:(.text+0x62b): undefined reference to `ht_lookup'
+sem.c:(.text+0x644): undefined reference to `emalloc'
+sem.c:(.text+0x6fd): undefined reference to `ht_insrep'
+sem.c:(.text+0x717): undefined reference to `panic'
+/tmp/ccBXCYWI.o: In function `defdevattach':
+sem.c:(.text+0x9e8): undefined reference to `nvfreel'
+sem.c:(.text+0x9f4): undefined reference to `nvfreel'
+/tmp/ccBXCYWI.o: In function `getdevattach':
+sem.c:(.text+0xad8): undefined reference to `ht_lookup'
+sem.c:(.text+0xaf1): undefined reference to `emalloc'
+sem.c:(.text+0xb9c): undefined reference to `ht_insrep'
+sem.c:(.text+0xbb6): undefined reference to `panic'
+/tmp/ccBXCYWI.o: In function `getattr':
+sem.c:(.text+0xbde): undefined reference to `ht_lookup'
+/tmp/ccBXCYWI.o: In function `resolve':
+sem.c:(.text+0xd0d): undefined reference to `panic'
+sem.c:(.text+0xdce): undefined reference to `newnv'
+sem.c:(.text+0xefd): undefined reference to `intern'
+sem.c:(.text+0x108b): undefined reference to `intern'
+sem.c:(.text+0x10a0): undefined reference to `ht_lookup'
+/tmp/ccBXCYWI.o: In function `addconf':
+sem.c:(.text+0x11dc): undefined reference to `emalloc'
+sem.c:(.text+0x11fc): undefined reference to `ht_insrep'
+sem.c:(.text+0x13e3): undefined reference to `nvfreel'
+sem.c:(.text+0x13f3): undefined reference to `nvfreel'
+sem.c:(.text+0x1403): undefined reference to `nvfreel'
+/tmp/ccBXCYWI.o: In function `setconf':
+sem.c:(.text+0x144c): undefined reference to `nvfreel'
+/tmp/ccBXCYWI.o: In function `newdevi':
+sem.c:(.text+0x1478): undefined reference to `emalloc'
+/tmp/ccBXCYWI.o: In function `enabledev':
+sem.c:(.text+0x158a): undefined reference to `ht_lookup'
+sem.c:(.text+0x1648): undefined reference to `intern'
+sem.c:(.text+0x1668): undefined reference to `ht_lookup'
+/tmp/ccBXCYWI.o: In function `adddev':
+sem.c:(.text+0x1974): undefined reference to `intern'
+sem.c:(.text+0x198e): undefined reference to `ht_lookup'
+sem.c:(.text+0x19ab): undefined reference to `ht_lookup'
+sem.c:(.text+0x1b15): undefined reference to `panic'
+sem.c:(.text+0x1c25): undefined reference to `nvfreel'
+/tmp/ccBXCYWI.o: In function `addpseudo':
+sem.c:(.text+0x1c63): undefined reference to `ht_lookup'
+sem.c:(.text+0x1cc5): undefined reference to `ht_lookup'
+sem.c:(.text+0x1d27): undefined reference to `ht_insrep'
+sem.c:(.text+0x1d41): undefined reference to `panic'
+/tmp/ccBXCYWI.o: In function `getdevi':
+sem.c:(.text+0x1e2d): undefined reference to `intern'
+sem.c:(.text+0x1e42): undefined reference to `ht_lookup'
+sem.c:(.text+0x1ec8): undefined reference to `ht_lookup'
+sem.c:(.text+0x1f17): undefined reference to `ht_insrep'
+sem.c:(.text+0x1f34): undefined reference to `panic'
+/tmp/ccBXCYWI.o: In function `concat':
+sem.c:(.text+0x20aa): undefined reference to `intern'
+/tmp/ccBXCYWI.o: In function `selectbase':
+sem.c:(.text+0x2286): undefined reference to `ht_insrep'
+sem.c:(.text+0x22c2): undefined reference to `ht_insrep'
+sem.c:(.text+0x22fd): undefined reference to `ht_insrep'
+sem.c:(.text+0x2339): undefined reference to `ht_insrep'
+/tmp/ccBXCYWI.o: In function `fixloc':
+sem.c:(.text+0x2468): undefined reference to `emalloc'
+sem.c:(.text+0x25e4): undefined reference to `panic'
+collect2: ld 返回 1

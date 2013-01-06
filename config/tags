@@ -1,0 +1,1077 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABS	sem.c	499;"	d	file:
+ALIGN	hash.c	59;"	d	file:
+ALIGNBYTES	hash.c	56;"	d	file:
+AND	y.tab.c	/^     AND = 258,$/;"	e	enum:yytokentype	file:
+AND	y.tab.c	228;"	d	file:
+AND	y.tab.h	/^     AND = 258,$/;"	e	enum:yytokentype
+AND	y.tab.h	81;"	d
+AT	y.tab.c	/^     AT = 259,$/;"	e	enum:yytokentype	file:
+AT	y.tab.c	229;"	d	file:
+AT	y.tab.h	/^     AT = 259,$/;"	e	enum:yytokentype
+AT	y.tab.h	82;"	d
+ATTACH	y.tab.c	/^     ATTACH = 260,$/;"	e	enum:yytokentype	file:
+ATTACH	y.tab.c	230;"	d	file:
+ATTACH	y.tab.h	/^     ATTACH = 260,$/;"	e	enum:yytokentype
+ATTACH	y.tab.h	83;"	d
+BEGIN	lex.yy.c	125;"	d	file:
+BUILD	y.tab.c	/^     BUILD = 261,$/;"	e	enum:yytokentype	file:
+BUILD	y.tab.c	231;"	d	file:
+BUILD	y.tab.h	/^     BUILD = 261,$/;"	e	enum:yytokentype
+BUILD	y.tab.h	84;"	d
+CA_HISTORY	ukc.h	43;"	d
+CMD_CONT	cmd.h	34;"	d
+CMD_EXIT	cmd.h	32;"	d
+CMD_NOEXTERN	cmd.c	38;"	d	file:
+CMD_SAVE	cmd.h	33;"	d
+COMPILE_WITH	y.tab.c	/^     COMPILE_WITH = 262,$/;"	e	enum:yytokentype	file:
+COMPILE_WITH	y.tab.c	232;"	d	file:
+COMPILE_WITH	y.tab.h	/^     COMPILE_WITH = 262,$/;"	e	enum:yytokentype
+COMPILE_WITH	y.tab.h	85;"	d
+CONFIG	y.tab.c	/^     CONFIG = 264,$/;"	e	enum:yytokentype	file:
+CONFIG	y.tab.c	234;"	d	file:
+CONFIG	y.tab.h	/^     CONFIG = 264,$/;"	e	enum:yytokentype
+CONFIG	y.tab.h	87;"	d
+Configuration	gram.y	/^Configuration:$/;"	l
+DEFINE	y.tab.c	/^     DEFINE = 265,$/;"	e	enum:yytokentype	file:
+DEFINE	y.tab.c	235;"	d	file:
+DEFINE	y.tab.h	/^     DEFINE = 265,$/;"	e	enum:yytokentype
+DEFINE	y.tab.h	88;"	d
+DEFOPT	y.tab.c	/^     DEFOPT = 266,$/;"	e	enum:yytokentype	file:
+DEFOPT	y.tab.c	236;"	d	file:
+DEFOPT	y.tab.h	/^     DEFOPT = 266,$/;"	e	enum:yytokentype
+DEFOPT	y.tab.h	89;"	d
+DEVICE	y.tab.c	/^     DEVICE = 267,$/;"	e	enum:yytokentype	file:
+DEVICE	y.tab.c	237;"	d	file:
+DEVICE	y.tab.h	/^     DEVICE = 267,$/;"	e	enum:yytokentype
+DEVICE	y.tab.h	90;"	d
+DISABLE	y.tab.c	/^     DISABLE = 268,$/;"	e	enum:yytokentype	file:
+DISABLE	y.tab.c	238;"	d	file:
+DISABLE	y.tab.h	/^     DISABLE = 268,$/;"	e	enum:yytokentype
+DISABLE	y.tab.h	91;"	d
+DO_AOUT	exec.c	58;"	d	file:
+DO_ECOFF	exec.c	59;"	d	file:
+DO_ELF	exec.c	60;"	d	file:
+DPADD	Makefile	/^DPADD=	${LIBKVM}$/;"	m
+DUMPS	y.tab.c	/^     DUMPS = 269,$/;"	e	enum:yytokentype	file:
+DUMPS	y.tab.c	239;"	d	file:
+DUMPS	y.tab.h	/^     DUMPS = 269,$/;"	e	enum:yytokentype
+DUMPS	y.tab.h	92;"	d
+ECHO	lex.yy.c	845;"	d	file:
+EMPTY	y.tab.c	/^     EMPTY = 295$/;"	e	enum:yytokentype	file:
+EMPTY	y.tab.c	265;"	d	file:
+EMPTY	y.tab.h	/^     EMPTY = 295$/;"	e	enum:yytokentype
+EMPTY	y.tab.h	118;"	d
+ENABLE	y.tab.c	/^     ENABLE = 291,$/;"	e	enum:yytokentype	file:
+ENABLE	y.tab.c	261;"	d	file:
+ENABLE	y.tab.h	/^     ENABLE = 291,$/;"	e	enum:yytokentype
+ENABLE	y.tab.h	114;"	d
+ENDFILE	y.tab.c	/^     ENDFILE = 270,$/;"	e	enum:yytokentype	file:
+ENDFILE	y.tab.c	240;"	d	file:
+ENDFILE	y.tab.h	/^     ENDFILE = 270,$/;"	e	enum:yytokentype
+ENDFILE	y.tab.h	93;"	d
+EOB_ACT_CONTINUE_SCAN	lex.yy.c	168;"	d	file:
+EOB_ACT_END_OF_FILE	lex.yy.c	169;"	d	file:
+EOB_ACT_LAST_MATCH	lex.yy.c	170;"	d	file:
+EXIT_SUCCESS	y.tab.c	406;"	d	file:
+EXIT_SUCCESS	y.tab.c	434;"	d	file:
+FI_HIDDEN	config.h	262;"	d
+FI_NEEDSCOUNT	config.h	260;"	d
+FI_NEEDSFLAG	config.h	261;"	d
+FI_SEL	config.h	259;"	d
+FLAGS	y.tab.c	/^     FLAGS = 273,$/;"	e	enum:yytokentype	file:
+FLAGS	y.tab.c	243;"	d	file:
+FLAGS	y.tab.h	/^     FLAGS = 273,$/;"	e	enum:yytokentype
+FLAGS	y.tab.h	96;"	d
+FLEXINT_H	lex.yy.c	29;"	d	file:
+FLEX_BETA	lex.yy.c	13;"	d	file:
+FLEX_SCANNER	lex.yy.c	8;"	d	file:
+FORMAT	y.tab.c	124;"	d	file:
+FX_AND	config.h	255;"	d
+FX_ATOM	config.h	253;"	d
+FX_NOT	config.h	254;"	d
+FX_OR	config.h	256;"	d
+HASHFRACTION	hash.c	86;"	d	file:
+IA_EXTRALOC	ukc.h	39;"	d
+INCLUDE	y.tab.c	/^     INCLUDE = 274,$/;"	e	enum:yytokentype	file:
+INCLUDE	y.tab.c	244;"	d	file:
+INCLUDE	y.tab.h	/^     INCLUDE = 274,$/;"	e	enum:yytokentype
+INCLUDE	y.tab.h	97;"	d
+INITIAL	lex.yy.c	753;"	d	file:
+INT16_MAX	lex.yy.c	71;"	d	file:
+INT16_MIN	lex.yy.c	62;"	d	file:
+INT32_MAX	lex.yy.c	74;"	d	file:
+INT32_MIN	lex.yy.c	65;"	d	file:
+INT8_MAX	lex.yy.c	68;"	d	file:
+INT8_MIN	lex.yy.c	59;"	d	file:
+I_BUFCACHEPCT	ukc.h	49;"	d
+I_CFROOTS_SIZE	ukc.h	33;"	d
+I_HISTLEN	ukc.h	42;"	d
+I_NEXTRALOC	ukc.h	40;"	d
+I_NKMEMPG	ukc.h	50;"	d
+I_NMBCLUSTERS	ukc.h	48;"	d
+I_PDEVSIZE	ukc.h	46;"	d
+I_PV_SIZE	ukc.h	34;"	d
+I_UEXTRALOC	ukc.h	41;"	d
+LDADD	Makefile	/^LDADD=	-lkvm$/;"	m
+LINT_WITH	y.tab.c	/^     LINT_WITH = 263,$/;"	e	enum:yytokentype	file:
+LINT_WITH	y.tab.c	233;"	d	file:
+LINT_WITH	y.tab.h	/^     LINT_WITH = 263,$/;"	e	enum:yytokentype
+LINT_WITH	y.tab.h	86;"	d
+LOCHASH	pack.c	93;"	d	file:
+MAJOR	y.tab.c	/^     MAJOR = 276,$/;"	e	enum:yytokentype	file:
+MAJOR	y.tab.c	246;"	d	file:
+MAJOR	y.tab.h	/^     MAJOR = 276,$/;"	e	enum:yytokentype
+MAJOR	y.tab.h	99;"	d
+MAKEOPTIONS	y.tab.c	/^     MAKEOPTIONS = 277,$/;"	e	enum:yytokentype	file:
+MAKEOPTIONS	y.tab.c	247;"	d	file:
+MAKEOPTIONS	y.tab.h	/^     MAKEOPTIONS = 277,$/;"	e	enum:yytokentype
+MAKEOPTIONS	y.tab.h	100;"	d
+MAN	Makefile	/^MAN=	config.8$/;"	m
+MAXPARTITIONS	y.tab.c	/^     MAXPARTITIONS = 279,$/;"	e	enum:yytokentype	file:
+MAXPARTITIONS	y.tab.c	249;"	d	file:
+MAXPARTITIONS	y.tab.h	/^     MAXPARTITIONS = 279,$/;"	e	enum:yytokentype
+MAXPARTITIONS	y.tab.h	102;"	d
+MAXUSERS	y.tab.c	/^     MAXUSERS = 278,$/;"	e	enum:yytokentype	file:
+MAXUSERS	y.tab.c	248;"	d	file:
+MAXUSERS	y.tab.h	/^     MAXUSERS = 278,$/;"	e	enum:yytokentype
+MAXUSERS	y.tab.h	101;"	d
+MINOR	y.tab.c	/^     MINOR = 280,$/;"	e	enum:yytokentype	file:
+MINOR	y.tab.c	250;"	d	file:
+MINOR	y.tab.h	/^     MINOR = 280,$/;"	e	enum:yytokentype
+MINOR	y.tab.h	103;"	d
+NAMESIZE	sem.c	59;"	d	file:
+NEEDS_COUNT	y.tab.c	/^     NEEDS_COUNT = 288,$/;"	e	enum:yytokentype	file:
+NEEDS_COUNT	y.tab.c	258;"	d	file:
+NEEDS_COUNT	y.tab.h	/^     NEEDS_COUNT = 288,$/;"	e	enum:yytokentype
+NEEDS_COUNT	y.tab.h	111;"	d
+NEEDS_FLAG	y.tab.c	/^     NEEDS_FLAG = 289,$/;"	e	enum:yytokentype	file:
+NEEDS_FLAG	y.tab.c	259;"	d	file:
+NEEDS_FLAG	y.tab.h	/^     NEEDS_FLAG = 289,$/;"	e	enum:yytokentype
+NEEDS_FLAG	y.tab.h	112;"	d
+NEWLINE	mkioconf.c	72;"	d	file:
+NLENTRIES	ukc.h	51;"	d
+NUMBER	y.tab.c	/^     NUMBER = 292,$/;"	e	enum:yytokentype	file:
+NUMBER	y.tab.c	262;"	d	file:
+NUMBER	y.tab.h	/^     NUMBER = 292,$/;"	e	enum:yytokentype
+NUMBER	y.tab.h	115;"	d
+OI_NEEDSFLAG	config.h	251;"	d
+OI_SEL	config.h	250;"	d
+ON	y.tab.c	/^     ON = 281,$/;"	e	enum:yytokentype	file:
+ON	y.tab.c	251;"	d	file:
+ON	y.tab.h	/^     ON = 281,$/;"	e	enum:yytokentype
+ON	y.tab.h	104;"	d
+OPTIONS	y.tab.c	/^     OPTIONS = 282,$/;"	e	enum:yytokentype	file:
+OPTIONS	y.tab.c	252;"	d	file:
+OPTIONS	y.tab.h	/^     OPTIONS = 282,$/;"	e	enum:yytokentype
+OPTIONS	y.tab.h	105;"	d
+PATHNAME	y.tab.c	/^     PATHNAME = 293,$/;"	e	enum:yytokentype	file:
+PATHNAME	y.tab.c	263;"	d	file:
+PATHNAME	y.tab.h	/^     PATHNAME = 293,$/;"	e	enum:yytokentype
+PATHNAME	y.tab.h	116;"	d
+PROG	Makefile	/^PROG=	config$/;"	m
+PSEUDO_DEVICE	y.tab.c	/^     PSEUDO_DEVICE = 283,$/;"	e	enum:yytokentype	file:
+PSEUDO_DEVICE	y.tab.c	253;"	d	file:
+PSEUDO_DEVICE	y.tab.h	/^     PSEUDO_DEVICE = 283,$/;"	e	enum:yytokentype
+PSEUDO_DEVICE	y.tab.h	106;"	d
+PVHASH	pack.c	92;"	d	file:
+P_CFDATA	ukc.h	36;"	d
+P_KERNEL_TEXT	ukc.h	37;"	d
+P_LOCNAMES	ukc.h	30;"	d
+P_PDEVNAMES	ukc.h	45;"	d
+P_VERSION	ukc.h	38;"	d
+REJECT	lex.yy.c	673;"	d	file:
+RMOPTIONS	y.tab.c	/^     RMOPTIONS = 290,$/;"	e	enum:yytokentype	file:
+RMOPTIONS	y.tab.c	260;"	d	file:
+RMOPTIONS	y.tab.h	/^     RMOPTIONS = 290,$/;"	e	enum:yytokentype
+RMOPTIONS	y.tab.h	113;"	d
+ROOT	y.tab.c	/^     ROOT = 284,$/;"	e	enum:yytokentype	file:
+ROOT	y.tab.c	254;"	d	file:
+ROOT	y.tab.h	/^     ROOT = 284,$/;"	e	enum:yytokentype
+ROOT	y.tab.h	107;"	d
+ROUND	hash.c	89;"	d	file:
+SA_CFROOTS	ukc.h	32;"	d
+SA_PV	ukc.h	35;"	d
+SEP	mkioconf.c	66;"	d	file:
+SOURCE	y.tab.c	/^     SOURCE = 285,$/;"	e	enum:yytokentype	file:
+SOURCE	y.tab.c	255;"	d	file:
+SOURCE	y.tab.h	/^     SOURCE = 285,$/;"	e	enum:yytokentype
+SOURCE	y.tab.h	108;"	d
+SRCS	Makefile	/^SRCS=	files.c gram.y hash.c main.c mkheaders.c mkioconf.c mkmakefile.c \\$/;"	m
+STAR	config.h	206;"	d
+SWAP	y.tab.c	/^     SWAP = 286,$/;"	e	enum:yytokentype	file:
+SWAP	y.tab.c	256;"	d	file:
+SWAP	y.tab.h	/^     SWAP = 286,$/;"	e	enum:yytokentype
+SWAP	y.tab.h	109;"	d
+S_LOCNAMP	ukc.h	31;"	d
+S_PDEVINIT	ukc.h	47;"	d
+TAILHSIZE	pack.c	91;"	d	file:
+TZ_TZ	ukc.h	44;"	d
+UC_CHANGE	ukc.h	153;"	d
+UC_DISABLE	ukc.h	154;"	d
+UC_ENABLE	ukc.h	155;"	d
+UC_FIND	ukc.h	156;"	d
+UC_SHOW	ukc.h	157;"	d
+UINT16_MAX	lex.yy.c	80;"	d	file:
+UINT32_MAX	lex.yy.c	83;"	d	file:
+UINT8_MAX	lex.yy.c	77;"	d	file:
+WILD	config.h	207;"	d
+WITH	y.tab.c	/^     WITH = 287,$/;"	e	enum:yytokentype	file:
+WITH	y.tab.c	257;"	d	file:
+WITH	y.tab.h	/^     WITH = 287,$/;"	e	enum:yytokentype
+WITH	y.tab.h	110;"	d
+WORD	y.tab.c	/^     WORD = 294,$/;"	e	enum:yytokentype	file:
+WORD	y.tab.c	264;"	d	file:
+WORD	y.tab.h	/^     WORD = 294,$/;"	e	enum:yytokentype
+WORD	y.tab.h	117;"	d
+XFILE	y.tab.c	/^     XFILE = 271,$/;"	e	enum:yytokentype	file:
+XFILE	y.tab.c	241;"	d	file:
+XFILE	y.tab.h	/^     XFILE = 271,$/;"	e	enum:yytokentype
+XFILE	y.tab.h	94;"	d
+XMACHINE	y.tab.c	/^     XMACHINE = 275,$/;"	e	enum:yytokentype	file:
+XMACHINE	y.tab.c	245;"	d	file:
+XMACHINE	y.tab.h	/^     XMACHINE = 275,$/;"	e	enum:yytokentype
+XMACHINE	y.tab.h	98;"	d
+XOBJECT	y.tab.c	/^     XOBJECT = 272,$/;"	e	enum:yytokentype	file:
+XOBJECT	y.tab.c	242;"	d	file:
+XOBJECT	y.tab.h	/^     XOBJECT = 272,$/;"	e	enum:yytokentype
+XOBJECT	y.tab.h	95;"	d
+Xadd	cmd.c	/^Xadd(cmd_t *cmd)$/;"	f
+Xbase	cmd.c	/^Xbase(cmd_t *cmd)$/;"	f
+Xbufcachepct	cmd.c	/^Xbufcachepct(cmd_t *cmd)$/;"	f
+Xchange	cmd.c	/^Xchange(cmd_t *cmd)$/;"	f
+Xdisable	cmd.c	/^Xdisable(cmd_t *cmd)$/;"	f
+Xenable	cmd.c	/^Xenable(cmd_t *cmd)$/;"	f
+Xexit	cmd.c	/^Xexit(cmd_t *cmd)$/;"	f
+Xfind	cmd.c	/^Xfind(cmd_t *cmd)$/;"	f
+Xhelp	cmd.c	/^Xhelp(cmd_t *cmd)$/;"	f
+Xlines	cmd.c	/^Xlines(cmd_t *cmd)$/;"	f
+Xlist	cmd.c	/^Xlist(cmd_t *cmd)$/;"	f
+Xnkmempg	cmd.c	/^Xnkmempg(cmd_t *cmd)$/;"	f
+Xquit	cmd.c	/^Xquit(cmd_t *cmd)$/;"	f
+Xshow	cmd.c	/^Xshow(cmd_t *cmd)$/;"	f
+Xtimezone	cmd.c	/^Xtimezone(cmd_t *cmd)$/;"	f
+YYABORT	y.tab.c	916;"	d	file:
+YYACCEPT	y.tab.c	915;"	d	file:
+YYBACKUP	y.tab.c	937;"	d	file:
+YYBISON	y.tab.c	44;"	d	file:
+YYBISON_VERSION	y.tab.c	47;"	d	file:
+YYCASE_	y.tab.c	1369;"	d	file:
+YYCASE_	y.tab.c	1379;"	d	file:
+YYCOPY	y.tab.c	500;"	d	file:
+YYCOPY	y.tab.c	503;"	d	file:
+YYCOPY_NEEDED	y.tab.c	475;"	d	file:
+YYDEBUG	y.tab.c	164;"	d	file:
+YYDPRINTF	y.tab.c	1007;"	d	file:
+YYDPRINTF	y.tab.c	1156;"	d	file:
+YYEMPTY	y.tab.c	912;"	d	file:
+YYEOF	y.tab.c	913;"	d	file:
+YYERRCODE	y.tab.c	955;"	d	file:
+YYERROR	y.tab.c	917;"	d	file:
+YYERROR_VERBOSE	y.tab.c	169;"	d	file:
+YYERROR_VERBOSE	y.tab.c	170;"	d	file:
+YYERROR_VERBOSE	y.tab.c	172;"	d	file:
+YYFAIL	y.tab.c	927;"	d	file:
+YYFINAL	y.tab.c	516;"	d	file:
+YYFPRINTF	y.tab.c	1004;"	d	file:
+YYFREE	y.tab.c	445;"	d	file:
+YYID	y.tab.c	/^YYID (int yyi)$/;"	f	file:
+YYID	y.tab.c	369;"	d	file:
+YYINITDEPTH	y.tab.c	1165;"	d	file:
+YYLAST	y.tab.c	518;"	d	file:
+YYLEX	y.tab.c	994;"	d	file:
+YYLEX	y.tab.c	996;"	d	file:
+YYLLOC_DEFAULT	y.tab.c	964;"	d	file:
+YYLSP_NEEDED	y.tab.c	62;"	d	file:
+YYMALLOC	y.tab.c	438;"	d	file:
+YYMAXDEPTH	y.tab.c	1176;"	d	file:
+YYMAXUTOK	y.tab.c	531;"	d	file:
+YYNNTS	y.tab.c	523;"	d	file:
+YYNRULES	y.tab.c	525;"	d	file:
+YYNSTATES	y.tab.c	527;"	d	file:
+YYNTOKENS	y.tab.c	521;"	d	file:
+YYPACT_NINF	y.tab.c	779;"	d	file:
+YYPOPSTACK	y.tab.c	1540;"	d	file:
+YYPULL	y.tab.c	59;"	d	file:
+YYPURE	y.tab.c	53;"	d	file:
+YYPUSH	y.tab.c	56;"	d	file:
+YYRECOVERING	y.tab.c	935;"	d	file:
+YYRHSLOC	y.tab.c	962;"	d	file:
+YYSIZE_MAXIMUM	y.tab.c	346;"	d	file:
+YYSIZE_T	y.tab.c	334;"	d	file:
+YYSIZE_T	y.tab.c	336;"	d	file:
+YYSIZE_T	y.tab.c	340;"	d	file:
+YYSIZE_T	y.tab.c	342;"	d	file:
+YYSKELETON_NAME	y.tab.c	50;"	d	file:
+YYSTACK_ALLOC	y.tab.c	392;"	d	file:
+YYSTACK_ALLOC	y.tab.c	396;"	d	file:
+YYSTACK_ALLOC	y.tab.c	401;"	d	file:
+YYSTACK_ALLOC	y.tab.c	424;"	d	file:
+YYSTACK_ALLOC_MAXIMUM	y.tab.c	421;"	d	file:
+YYSTACK_ALLOC_MAXIMUM	y.tab.c	427;"	d	file:
+YYSTACK_BYTES	y.tab.c	471;"	d	file:
+YYSTACK_FREE	y.tab.c	415;"	d	file:
+YYSTACK_FREE	y.tab.c	425;"	d	file:
+YYSTACK_GAP_MAXIMUM	y.tab.c	467;"	d	file:
+YYSTACK_RELOCATE	y.tab.c	482;"	d	file:
+YYSTATE	lex.yy.c	132;"	d	file:
+YYSTYPE	y.tab.c	/^typedef union YYSTYPE$/;"	u	file:
+YYSTYPE	y.tab.c	/^} YYSTYPE;$/;"	t	typeref:union:YYSTYPE	file:
+YYSTYPE	y.tab.h	/^typedef union YYSTYPE$/;"	u
+YYSTYPE	y.tab.h	/^} YYSTYPE;$/;"	t	typeref:union:YYSTYPE
+YYSTYPE_IS_DECLARED	y.tab.c	291;"	d	file:
+YYSTYPE_IS_DECLARED	y.tab.h	144;"	d
+YYSTYPE_IS_TRIVIAL	y.tab.c	289;"	d	file:
+YYSTYPE_IS_TRIVIAL	y.tab.h	142;"	d
+YYTABLES_NAME	lex.yy.c	2314;"	d	file:
+YYTABLE_NINF	y.tab.c	822;"	d	file:
+YYTERROR	y.tab.c	954;"	d	file:
+YYTOKENTYPE	y.tab.c	183;"	d	file:
+YYTOKENTYPE	y.tab.h	36;"	d
+YYTOKEN_TABLE	y.tab.c	177;"	d	file:
+YYTRANSLATE	y.tab.c	533;"	d	file:
+YYUNDEFTOK	y.tab.c	530;"	d	file:
+YYUSE	y.tab.c	362;"	d	file:
+YYUSE	y.tab.c	364;"	d	file:
+YY_	y.tab.c	352;"	d	file:
+YY_	y.tab.c	356;"	d	file:
+YY_AT_BOL	lex.yy.c	339;"	d	file:
+YY_BREAK	lex.yy.c	924;"	d	file:
+YY_BUFFER_EOF_PENDING	lex.yy.c	255;"	d	file:
+YY_BUFFER_NEW	lex.yy.c	243;"	d	file:
+YY_BUFFER_NORMAL	lex.yy.c	244;"	d	file:
+YY_BUFFER_STATE	lex.yy.c	/^typedef struct yy_buffer_state *YY_BUFFER_STATE;$/;"	t	typeref:struct:yy_buffer_state	file:
+YY_BUF_SIZE	lex.yy.c	149;"	d	file:
+YY_BUF_SIZE	lex.yy.c	151;"	d	file:
+YY_CHAR	lex.yy.c	/^typedef unsigned char YY_CHAR;$/;"	t	file:
+YY_CURRENT_BUFFER	lex.yy.c	271;"	d	file:
+YY_CURRENT_BUFFER_LVALUE	lex.yy.c	278;"	d	file:
+YY_DECL	lex.yy.c	912;"	d	file:
+YY_DECL_IS_OURS	lex.yy.c	908;"	d	file:
+YY_DO_BEFORE_ACTION	lex.yy.c	364;"	d	file:
+YY_END_OF_BUFFER	lex.yy.c	372;"	d	file:
+YY_END_OF_BUFFER_CHAR	lex.yy.c	140;"	d	file:
+YY_EXIT_FAILURE	lex.yy.c	2112;"	d	file:
+YY_EXTRA_TYPE	lex.yy.c	764;"	d	file:
+YY_FATAL_ERROR	lex.yy.c	899;"	d	file:
+YY_FLEX_MAJOR_VERSION	lex.yy.c	9;"	d	file:
+YY_FLEX_MINOR_VERSION	lex.yy.c	10;"	d	file:
+YY_FLEX_SUBMINOR_VERSION	lex.yy.c	11;"	d	file:
+YY_FLUSH_BUFFER	lex.yy.c	307;"	d	file:
+YY_INPUT	lex.yy.c	852;"	d	file:
+YY_INT_ALIGNED	lex.yy.c	4;"	d	file:
+YY_LESS_LINENO	lex.yy.c	172;"	d	file:
+YY_LOCATION_PRINT	y.tab.c	987;"	d	file:
+YY_MORE_ADJ	lex.yy.c	675;"	d	file:
+YY_NEW_FILE	lex.yy.c	138;"	d	file:
+YY_NULL	lex.yy.c	112;"	d	file:
+YY_NUM_RULES	lex.yy.c	371;"	d	file:
+YY_READ_BUF_SIZE	lex.yy.c	834;"	d	file:
+YY_READ_BUF_SIZE	lex.yy.c	836;"	d	file:
+YY_REDUCE_PRINT	y.tab.c	1146;"	d	file:
+YY_REDUCE_PRINT	y.tab.c	1159;"	d	file:
+YY_RESTORE_YY_MORE_OFFSET	lex.yy.c	676;"	d	file:
+YY_RULE_SETUP	lex.yy.c	927;"	d	file:
+YY_SC_TO_UI	lex.yy.c	119;"	d	file:
+YY_STACK_PRINT	y.tab.c	1108;"	d	file:
+YY_STACK_PRINT	y.tab.c	1158;"	d	file:
+YY_START	lex.yy.c	131;"	d	file:
+YY_START_STACK_INCR	lex.yy.c	894;"	d	file:
+YY_STATE_BUF_SIZE	lex.yy.c	157;"	d	file:
+YY_STATE_EOF	lex.yy.c	135;"	d	file:
+YY_STRUCT_YY_BUFFER_STATE	lex.yy.c	196;"	d	file:
+YY_SYMBOL_PRINT	y.tab.c	1013;"	d	file:
+YY_SYMBOL_PRINT	y.tab.c	1157;"	d	file:
+YY_TYPEDEF_YY_BUFFER_STATE	lex.yy.c	160;"	d	file:
+YY_TYPEDEF_YY_SIZE_T	lex.yy.c	191;"	d	file:
+YY_USER_ACTION	lex.yy.c	919;"	d	file:
+YY_USE_CONST	lex.yy.c	100;"	d	file:
+YY_USE_CONST	lex.yy.c	93;"	d	file:
+_CMD_H	cmd.h	29;"	d
+_EXEC_H	exec.h	28;"	d
+_MISC_H	misc.h	29;"	d
+_PATH_DEVNULL	config.h	64;"	d
+_UKC_H	ukc.h	28;"	d
+__STDC_LIMIT_MACROS	lex.yy.c	39;"	d	file:
+__dead	config.h	61;"	d
+_cmd_t	cmd.h	/^typedef struct _cmd_t {$/;"	s
+_cmd_table_t	cmd.h	/^typedef struct _cmd_table_t {$/;"	s
+a_devs	config.h	/^	struct	nvlist *a_devs;		\/* children *\/$/;"	m	struct:attr	typeref:struct:attr::nvlist
+a_iattr	config.h	/^	int	a_iattr;		\/* true => allows children *\/$/;"	m	struct:attr
+a_loclen	config.h	/^	int	a_loclen;		\/* length of above list *\/$/;"	m	struct:attr
+a_locs	config.h	/^	struct	nvlist *a_locs;		\/* locators required *\/$/;"	m	struct:attr	typeref:struct:attr::nvlist
+a_name	config.h	/^	const char *a_name;		\/* name of this attribute *\/$/;"	m	struct:attr
+a_refs	config.h	/^	struct	nvlist *a_refs;		\/* parents *\/$/;"	m	struct:attr	typeref:struct:attr::nvlist
+add	ukcutil.c	/^add(char *dev, int len, short unit, short state)$/;"	f
+add_history	ukcutil.c	/^add_history(int devno, short unit, short state, int newno)$/;"	f
+add_read	ukcutil.c	/^add_read(char *prompt, char field, char *dev, int len, int *val)$/;"	f
+addconf	sem.c	/^addconf(struct config *cf0)$/;"	f
+adddev	sem.c	/^adddev(const char *name, const char *at, struct nvlist *loclist, int flags,$/;"	f
+addfile	files.c	/^addfile(struct nvlist *nvpath, struct nvlist *optx, int flags, const char *rule,$/;"	f
+addlocname	mkioconf.c	/^addlocname(const char *name)$/;"	f
+addlocnami	mkioconf.c	/^addlocnami(short index)$/;"	f
+addlocs	pack.c	/^addlocs(const char **locs, int len)$/;"	f	file:
+addmkoption	main.c	/^addmkoption(const char *name, const char *value)$/;"	f
+addobject	files.c	/^addobject(const char *path, struct nvlist *optx, int flags)$/;"	f
+addoption	main.c	/^addoption(const char *name, const char *value)$/;"	f
+addparents	pack.c	/^addparents(struct devi *src, struct devi *dst)$/;"	f	file:
+addpseudo	sem.c	/^addpseudo(const char *name, int number, int disable)$/;"	f
+addpv	pack.c	/^addpv(short *pv, int len)$/;"	f	file:
+addtoattr	sem.c	/^addtoattr(struct nvlist *l, struct devbase *dev)$/;"	f	file:
+adepth	y.tab.c	/^static	int	adepth;$/;"	v	file:
+adjust	exec.c	/^adjust(caddr_t x)$/;"	f
+allbases	config.h	/^struct	devbase *allbases;	\/* list of all devbase structures *\/$/;"	v	typeref:struct:devbase
+allcf	config.h	/^struct	config *allcf;		\/* list of configured kernels *\/$/;"	v	typeref:struct:config
+alldevas	config.h	/^struct	deva *alldevas;		\/* list of all devbase attachment structures *\/$/;"	v	typeref:struct:deva
+alldevi	config.h	/^struct	devi *alldevi;		\/* list of all instances *\/$/;"	v	typeref:struct:devi
+allfiles	config.h	/^struct	files *allfiles;	\/* list of all kernel source files *\/$/;"	v	typeref:struct:files
+allobjects	config.h	/^struct objects *allobjects;	\/* list of all kernel object and library files *\/$/;"	v	typeref:struct:objects
+alloc	y.tab.c	/^static	struct	nvlist *alloc[1000];$/;"	v	typeref:struct:nvlist	file:
+alloca	y.tab.c	399;"	d	file:
+allpseudo	config.h	/^struct	devi *allpseudo;	\/* list of all pseudo-devices *\/$/;"	v	typeref:struct:devi
+aout_adjust	exec_aout.c	/^aout_adjust(caddr_t x)$/;"	f
+aout_adjvalue	exec_aout.c	/^unsigned long	aout_adjvalue = 0;$/;"	v
+aout_check	exec_aout.c	/^aout_check(char *file)$/;"	f
+aout_computeadj	exec_aout.c	/^aout_computeadj(void)$/;"	f
+aout_datashift	exec_aout.c	/^unsigned long	aout_datashift = 0;$/;"	v
+aout_ex	exec_aout.c	/^struct exec	aout_ex;$/;"	v	typeref:struct:exec
+aout_loadkernel	exec_aout.c	/^aout_loadkernel(char *file)$/;"	f
+aout_p	exec_aout.c	/^caddr_t		aout_p, aout_r;$/;"	v
+aout_psz	exec_aout.c	/^unsigned long	aout_psz = 0, aout_rsz = 0;$/;"	v
+aout_r	exec_aout.c	/^caddr_t		aout_p, aout_r;$/;"	v
+aout_readjust	exec_aout.c	/^aout_readjust(caddr_t x)$/;"	f
+aout_rsz	exec_aout.c	/^unsigned long	aout_psz = 0, aout_rsz = 0;$/;"	v
+aout_savekernel	exec_aout.c	/^aout_savekernel(char *outfile)$/;"	f
+args	cmd.h	/^	char args[100];$/;"	m	struct:_cmd_t
+ask_cmd	misc.c	/^ask_cmd(cmd_t *cmd)$/;"	f
+ask_yn	misc.c	/^ask_yn(const char *str)$/;"	f
+atlist	gram.y	/^atlist:$/;"	l
+atname	gram.y	/^atname:$/;"	l
+attachment	gram.y	/^attachment:$/;"	l
+attr	config.h	/^struct attr {$/;"	s
+attr	gram.y	/^attr:$/;"	l
+attr	ukcutil.c	/^attr(char *cmd, int *val)$/;"	f
+attr	y.tab.c	/^	struct	attr *attr;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::attr	file:
+attr	y.tab.h	/^	struct	attr *attr;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::attr
+attrs	gram.y	/^attrs:$/;"	l
+attrs_opt	gram.y	/^attrs_opt:$/;"	l
+attrtab	sem.c	/^static struct hashtab *attrtab;		\/* for attribute lookup *\/$/;"	v	typeref:struct:hashtab	file:
+badstar	main.c	/^badstar(void)$/;"	f
+base	ukc.h	/^int	base = 16;$/;"	v
+basetab	files.c	/^static struct hashtab *basetab;		\/* file base names *\/$/;"	v	typeref:struct:hashtab	file:
+builddir	config.h	/^const char *builddir;		\/* path to build directory *\/$/;"	v
+cf_dump	config.h	/^	struct	nvlist *cf_dump;	\/* "dumps on ra0b" *\/$/;"	m	struct:config	typeref:struct:config::nvlist
+cf_lineno	config.h	/^	int	cf_lineno;		\/* source line *\/$/;"	m	struct:config
+cf_name	config.h	/^	const char *cf_name;		\/* "vmunix" *\/$/;"	m	struct:config
+cf_next	config.h	/^	struct	config *cf_next;	\/* linked list *\/$/;"	m	struct:config	typeref:struct:config::config
+cf_root	config.h	/^	struct	nvlist *cf_root;	\/* "root on ra0a" *\/$/;"	m	struct:config	typeref:struct:config::nvlist
+cf_swap	config.h	/^	struct	nvlist *cf_swap;	\/* "swap on ra0b and ra1b" *\/$/;"	m	struct:config	typeref:struct:config::nvlist
+cfcrosscheck	main.c	/^cfcrosscheck(struct config *cf, const char *what, struct nvlist *nv)$/;"	f	file:
+cfhashtab	sem.c	/^static struct hashtab *cfhashtab;	\/* for config lookup *\/$/;"	v	typeref:struct:hashtab	file:
+cforder	mkioconf.c	/^cforder(const void *a, const void *b)$/;"	f	file:
+change	ukcutil.c	/^change(int devno)$/;"	f
+change_history	ukcutil.c	/^change_history(int devno, char *str)$/;"	f
+check_maxpart	y.tab.c	/^check_maxpart(void)$/;"	f	file:
+checkaux	files.c	/^checkaux(const char *name, void *context)$/;"	f	file:
+checkfiles	files.c	/^checkfiles(void)$/;"	f
+cleanup	y.tab.c	/^cleanup(void)$/;"	f	file:
+cmd	cmd.h	/^	char *cmd;$/;"	m	struct:_cmd_table_t
+cmd	cmd.h	/^	char cmd[10];$/;"	m	struct:_cmd_t
+cmd_t	cmd.h	/^} cmd_t;$/;"	t	typeref:struct:_cmd_t
+cmd_table	cmd.c	/^cmd_table_t cmd_table[] = {$/;"	v
+cmd_table_t	cmd.h	/^} cmd_table_t;$/;"	t	typeref:struct:_cmd_table_t
+cnt	ukc.h	/^int	cnt = -1;$/;"	v
+cntname	mkheaders.c	/^cntname(const char *src)$/;"	f	file:
+common_attr	ukcutil.c	/^common_attr(char *cmd, int attr, char routine)$/;"	f
+common_attr_val	ukcutil.c	/^common_attr_val(short attr, int *val, char routine)$/;"	f
+common_dev	ukcutil.c	/^common_dev(char *dev, int len, short unit, short state, char routine)$/;"	f
+concat	sem.c	/^concat(const char *name, int c)$/;"	f	file:
+conf	gram.y	/^conf:$/;"	l
+conf	y.tab.c	/^static	struct	config conf;	\/* at most one active at a time *\/$/;"	v	typeref:struct:config	file:
+conffile	config.h	/^const char *conffile;		\/* source file, e.g., "GENERIC.sparc" *\/$/;"	v
+config	config.h	/^struct config {$/;"	s
+config	ukcutil.c	/^config(void)$/;"	f
+config_spec	gram.y	/^config_spec:$/;"	l
+crosscheck	main.c	/^crosscheck(void)$/;"	f
+current_exec	exec.c	/^int current_exec = -1;$/;"	v
+currentline	lex.yy.c	/^currentline()$/;"	f
+d_ahead	config.h	/^	struct	deva *d_ahead;		\/* first attachment, if any *\/$/;"	m	struct:devbase	typeref:struct:devbase::deva
+d_app	config.h	/^	struct	deva **d_app;		\/* used for tacking on attachments *\/$/;"	m	struct:devbase	typeref:struct:devbase::deva
+d_atlist	config.h	/^	struct	nvlist *d_atlist;	\/* e.g., "at tg" (attr list) *\/$/;"	m	struct:deva	typeref:struct:deva::nvlist
+d_attrs	config.h	/^	struct	nvlist *d_attrs;	\/* attributes, if any *\/$/;"	m	struct:deva	typeref:struct:deva::nvlist
+d_attrs	config.h	/^	struct	nvlist *d_attrs;	\/* attributes, if any *\/$/;"	m	struct:devbase	typeref:struct:devbase::nvlist
+d_bsame	config.h	/^	struct	deva *d_bsame;		\/* list on same base *\/$/;"	m	struct:deva	typeref:struct:deva::deva
+d_devbase	config.h	/^	struct	devbase *d_devbase;	\/* the base device *\/$/;"	m	struct:deva	typeref:struct:deva::devbase
+d_ihead	config.h	/^	struct	devi *d_ihead;		\/* first instance, if any *\/$/;"	m	struct:deva	typeref:struct:deva::devi
+d_ihead	config.h	/^	struct	devi *d_ihead;		\/* first instance, if any *\/$/;"	m	struct:devbase	typeref:struct:devbase::devi
+d_ipp	config.h	/^	struct	devi **d_ipp;		\/* used for tacking on more instances *\/$/;"	m	struct:deva	typeref:struct:deva::devi
+d_ipp	config.h	/^	struct	devi **d_ipp;		\/* used for tacking on more instances *\/$/;"	m	struct:devbase	typeref:struct:devbase::devi
+d_isdef	config.h	/^	int	d_isdef;		\/* set once properly defined *\/$/;"	m	struct:deva
+d_isdef	config.h	/^	int	d_isdef;		\/* set once properly defined *\/$/;"	m	struct:devbase
+d_ispseudo	config.h	/^	int	d_ispseudo;		\/* is a pseudo-device *\/$/;"	m	struct:devbase
+d_major	config.h	/^	int	d_major;		\/* used for "root on sd0", e.g. *\/$/;"	m	struct:devbase
+d_name	config.h	/^	const char *d_name;		\/* e.g., "sd" *\/$/;"	m	struct:devbase
+d_name	config.h	/^	const char *d_name;		\/* name of attachment, e.g. "com_isa" *\/$/;"	m	struct:deva
+d_next	config.h	/^	struct	deva *d_next;		\/* linked list *\/$/;"	m	struct:deva	typeref:struct:deva::deva
+d_next	config.h	/^	struct	devbase *d_next;	\/* linked list *\/$/;"	m	struct:devbase	typeref:struct:devbase::devbase
+d_umax	config.h	/^	int	d_umax;			\/* highest unit number + 1 *\/$/;"	m	struct:devbase
+defattr	sem.c	/^defattr(const char *name, struct nvlist *locs)$/;"	f
+defbuilddir	config.h	/^const char *defbuilddir;	\/* default build directory *\/$/;"	v
+defdev	sem.c	/^defdev(struct devbase *dev, int ispseudo, struct nvlist *loclist,$/;"	f
+defdevattach	sem.c	/^defdevattach(struct deva *deva, struct devbase *dev, struct nvlist *atlist,$/;"	f
+defmaxusers	config.h	/^int	defmaxusers;		\/* default "maxusers" parameter *\/$/;"	v
+defoption	main.c	/^defoption(const char *name)$/;"	f
+defoptions	config.h	/^struct	nvlist *defoptions;	\/* "defopt"'d options *\/$/;"	v	typeref:struct:nvlist
+defopttab	config.h	/^struct	hashtab *defopttab;	\/* options that have been "defopt"'d *\/$/;"	v	typeref:struct:hashtab
+dev_def	gram.y	/^dev_def:$/;"	l
+dev_defs	gram.y	/^dev_defs:$/;"	l
+dev_eof	gram.y	/^dev_eof:$/;"	l
+dev_spec	gram.y	/^dev_spec:$/;"	l
+deva	config.h	/^struct deva {$/;"	s
+deva	y.tab.c	/^	struct	deva *deva;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::deva	file:
+deva	y.tab.h	/^	struct	deva *deva;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::deva
+deva_has_instances	main.c	/^deva_has_instances(struct deva *deva, int unit)$/;"	f
+devatab	config.h	/^struct	hashtab *devatab;	\/* devbase attachment lookup *\/$/;"	v	typeref:struct:hashtab
+devattach_opt	gram.y	/^devattach_opt:$/;"	l
+devb	y.tab.c	/^	struct	devbase *devb;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::devbase	file:
+devb	y.tab.h	/^	struct	devbase *devb;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::devbase
+devbase	config.h	/^struct devbase {$/;"	s
+devbase	gram.y	/^devbase:$/;"	l
+devbase_has_instances	main.c	/^devbase_has_instances(struct devbase *dev, int unit)$/;"	f
+devbasetab	config.h	/^struct	hashtab *devbasetab;	\/* devbase lookup *\/$/;"	v	typeref:struct:hashtab
+devi	config.h	/^struct devi {$/;"	s
+device	ukcutil.c	/^device(char *cmd, int *len, short *unit, short *state)$/;"	f
+device_instance	gram.y	/^device_instance:$/;"	l
+devitab	sem.c	/^static struct hashtab *devitab;		\/* etc *\/$/;"	v	typeref:struct:hashtab	file:
+disable	gram.y	/^disable:$/;"	l
+disable	ukcutil.c	/^disable(int devno)$/;"	f
+do_option	main.c	/^do_option(struct hashtab *ht, struct nvlist ***nppp, const char *name,$/;"	f	file:
+ecoff_adjust	exec_ecoff.c	/^ecoff_adjust(caddr_t x)$/;"	f
+ecoff_b	exec_ecoff.c	/^caddr_t		ecoff_p, ecoff_r, ecoff_b;$/;"	v
+ecoff_bsz	exec_ecoff.c	/^int		ecoff_psz = 0, ecoff_rsz = 0, ecoff_bsz = 0;$/;"	v
+ecoff_check	exec_ecoff.c	/^ecoff_check(char *file)$/;"	f
+ecoff_ex	exec_ecoff.c	/^struct ecoff_exechdr	ecoff_ex;$/;"	v	typeref:struct:ecoff_exechdr
+ecoff_loadkernel	exec_ecoff.c	/^ecoff_loadkernel(char *file)$/;"	f
+ecoff_p	exec_ecoff.c	/^caddr_t		ecoff_p, ecoff_r, ecoff_b;$/;"	v
+ecoff_psz	exec_ecoff.c	/^int		ecoff_psz = 0, ecoff_rsz = 0, ecoff_bsz = 0;$/;"	v
+ecoff_r	exec_ecoff.c	/^caddr_t		ecoff_p, ecoff_r, ecoff_b;$/;"	v
+ecoff_readjust	exec_ecoff.c	/^ecoff_readjust(caddr_t x)$/;"	f
+ecoff_rsz	exec_ecoff.c	/^int		ecoff_psz = 0, ecoff_rsz = 0, ecoff_bsz = 0;$/;"	v
+ecoff_savekernel	exec_ecoff.c	/^ecoff_savekernel(char *outfile)$/;"	f
+elf_adjust	exec_elf.c	/^elf_adjust(caddr_t x)$/;"	f
+elf_check	exec_elf.c	/^elf_check(char *file)$/;"	f
+elf_ex	exec_elf.c	/^Elf_Ehdr	elf_ex;$/;"	v
+elf_loadkernel	exec_elf.c	/^elf_loadkernel(char *file)$/;"	f
+elf_phdr	exec_elf.c	/^Elf_Phdr	*elf_phdr;$/;"	v
+elf_readjust	exec_elf.c	/^elf_readjust(caddr_t x)$/;"	f
+elf_savekernel	exec_elf.c	/^elf_savekernel(char *outfile)$/;"	f
+elf_shdr	exec_elf.c	/^Elf_Shdr	*elf_shdr;$/;"	v
+elf_shstrtab	exec_elf.c	/^char		*elf_shstrtab;$/;"	v
+elf_size	exec_elf.c	/^off_t		elf_size;$/;"	v
+elf_total	exec_elf.c	/^char		*elf_total;$/;"	v
+emalloc	util.c	/^emalloc(size_t size)$/;"	f
+emit_1rule	mkmakefile.c	/^emit_1rule(FILE *fp, struct files *fi, const char *fpath, const char *suffix,$/;"	f	file:
+emitcfdata	mkioconf.c	/^emitcfdata(FILE *fp)$/;"	f	file:
+emitcfiles	mkmakefile.c	/^emitcfiles(FILE *fp)$/;"	f	file:
+emitcnt	mkheaders.c	/^emitcnt(struct nvlist *head)$/;"	f	file:
+emitdefs	mkmakefile.c	/^emitdefs(FILE *fp)$/;"	f	file:
+emitexterns	mkioconf.c	/^emitexterns(FILE *fp)$/;"	f	file:
+emitfiles	mkmakefile.c	/^emitfiles(FILE *fp, int suffix)$/;"	f	file:
+emithdr	mkioconf.c	/^emithdr(FILE *ofp)$/;"	f	file:
+emitload	mkmakefile.c	/^emitload(FILE *fp)$/;"	f	file:
+emitloc	mkioconf.c	/^emitloc(FILE *fp)$/;"	f	file:
+emitlocnames	mkioconf.c	/^emitlocnames(FILE *fp)$/;"	f	file:
+emitobjs	mkmakefile.c	/^emitobjs(FILE *fp)$/;"	f	file:
+emitopt	mkheaders.c	/^emitopt(struct nvlist *nv)$/;"	f	file:
+emitpseudo	mkioconf.c	/^emitpseudo(FILE *fp)$/;"	f	file:
+emitpv	mkioconf.c	/^emitpv(FILE *fp)$/;"	f	file:
+emitroots	mkioconf.c	/^emitroots(FILE *fp)$/;"	f	file:
+emitrules	mkmakefile.c	/^emitrules(FILE *fp)$/;"	f	file:
+emitsfiles	mkmakefile.c	/^emitsfiles(FILE *fp)$/;"	f	file:
+enable	ukcutil.c	/^enable(int devno)$/;"	f
+enabledev	sem.c	/^enabledev(const char *name, const char *at)$/;"	f
+enddefs	sem.c	/^enddefs(void)$/;"	f
+endinclude	lex.yy.c	/^endinclude()$/;"	f	file:
+erealloc	util.c	/^erealloc(void *p, size_t size)$/;"	f
+err	mkheaders.c	/^err(const char *what, char *fname, FILE *fp)$/;"	f	file:
+errattr	sem.c	/^static struct attr errattr;$/;"	v	typeref:struct:attr	file:
+errdev	sem.c	/^static struct devbase errdev;$/;"	v	typeref:struct:devbase	file:
+errdeva	sem.c	/^static struct deva errdeva;$/;"	v	typeref:struct:deva	file:
+error	util.c	/^error(const char *fmt, ...)$/;"	f
+errors	config.h	/^int	errors;			\/* counts calls to error() *\/$/;"	v
+exclude	sem.c	/^exclude(struct nvlist *nv, const char *name, const char *what)$/;"	f	file:
+expandname	mkmakefile.c	/^expandname(const char *_nam)$/;"	f
+expr_eval	files.c	/^expr_eval(struct nvlist *expr, int (*fn)(const char *, void *), void *context)$/;"	f	file:
+expr_free	files.c	/^expr_free(struct nvlist *expr)$/;"	f	file:
+extend	sem.c	/^extend(char *p, const char *name)$/;"	f	file:
+fatom	gram.y	/^fatom:$/;"	l
+fcn	cmd.h	/^	int (*fcn)(cmd_t *);$/;"	m	struct:_cmd_table_t
+fexpr	gram.y	/^fexpr:$/;"	l
+fflag	gram.y	/^fflag:$/;"	l
+fflgs	gram.y	/^fflgs:$/;"	l
+fi_base	config.h	/^	const char *fi_base;	\/* tail minus ".c" (or whatever) *\/$/;"	m	struct:files
+fi_flags	config.h	/^	u_char	fi_flags;	\/* as below *\/$/;"	m	struct:files
+fi_lastc	config.h	/^	char	fi_lastc;	\/* last char from path *\/$/;"	m	struct:files
+fi_mkrule	config.h	/^	const char *fi_mkrule[2];\/* special make rules, if any *\/$/;"	m	struct:files
+fi_next	config.h	/^	struct	files *fi_next;	\/* linked list *\/$/;"	m	struct:files	typeref:struct:files::files
+fi_nvpath	config.h	/^	struct nvlist *fi_nvpath; \/* list of paths *\/$/;"	m	struct:files	typeref:struct:files::nvlist
+fi_optf	config.h	/^	struct  nvlist *fi_optf;\/* flattened version of above, if needed *\/$/;"	m	struct:files	typeref:struct:files::nvlist
+fi_optx	config.h	/^	struct  nvlist *fi_optx;\/* options expression *\/$/;"	m	struct:files	typeref:struct:files::nvlist
+fi_srcfile	config.h	/^	const char *fi_srcfile;	\/* the name of the "files" file that got us *\/$/;"	m	struct:files
+fi_srcline	config.h	/^	u_short	fi_srcline;	\/* and the line number *\/$/;"	m	struct:files
+file	gram.y	/^file:$/;"	l
+files	config.h	/^struct files {$/;"	s
+findvec	pack.c	/^findvec(const void *ptr, int hash, int len, vec_cmp_func cmp, int nextplace)$/;"	f	file:
+firstfile	lex.yy.c	/^firstfile(fname)$/;"	f
+fixcount	files.c	/^fixcount(const char *name, void *context)$/;"	f	file:
+fixfiles	files.c	/^fixfiles(void)$/;"	f
+fixfsel	files.c	/^fixfsel(const char *name, void *context)$/;"	f	file:
+fixloc	sem.c	/^fixloc(const char *name, struct attr *attr, struct nvlist *got)$/;"	f	file:
+fixobjects	files.c	/^fixobjects(void)$/;"	f
+fixsel	files.c	/^fixsel(const char *name, void *context)$/;"	f	file:
+flags_opt	gram.y	/^flags_opt:$/;"	l
+flex_int16_t	lex.yy.c	/^typedef int16_t flex_int16_t;$/;"	t	file:
+flex_int16_t	lex.yy.c	/^typedef short int flex_int16_t;$/;"	t	file:
+flex_int32_t	lex.yy.c	/^typedef int flex_int32_t;$/;"	t	file:
+flex_int32_t	lex.yy.c	/^typedef int32_t flex_int32_t;$/;"	t	file:
+flex_int8_t	lex.yy.c	/^typedef int8_t flex_int8_t;$/;"	t	file:
+flex_int8_t	lex.yy.c	/^typedef signed char flex_int8_t;$/;"	t	file:
+flex_uint16_t	lex.yy.c	/^typedef uint16_t flex_uint16_t;$/;"	t	file:
+flex_uint16_t	lex.yy.c	/^typedef unsigned short int flex_uint16_t;$/;"	t	file:
+flex_uint32_t	lex.yy.c	/^typedef uint32_t flex_uint32_t;$/;"	t	file:
+flex_uint32_t	lex.yy.c	/^typedef unsigned int flex_uint32_t;$/;"	t	file:
+flex_uint8_t	lex.yy.c	/^typedef uint8_t flex_uint8_t;$/;"	t	file:
+flex_uint8_t	lex.yy.c	/^typedef unsigned char flex_uint8_t; $/;"	t	file:
+fopts	gram.y	/^fopts:$/;"	l
+fx_and	y.tab.c	150;"	d	file:
+fx_atom	y.tab.c	148;"	d	file:
+fx_not	y.tab.c	149;"	d	file:
+fx_or	y.tab.c	151;"	d	file:
+get_cfdata	ukcutil.c	/^get_cfdata(int idx)$/;"	f
+get_extraloc	ukcutil.c	/^get_extraloc(int idx)$/;"	f
+get_locnames	ukcutil.c	/^get_locnames(int idx)$/;"	f
+get_locnamp	ukcutil.c	/^get_locnamp(int idx)$/;"	f
+get_pdevinit	ukcutil.c	/^get_pdevinit(int idx)$/;"	f
+get_pdevnames	ukcutil.c	/^get_pdevnames(int idx)$/;"	f
+getattr	sem.c	/^getattr(const char *name)$/;"	f
+getdevattach	sem.c	/^getdevattach(const char *name)$/;"	f
+getdevbase	sem.c	/^getdevbase(char *name)$/;"	f
+getdevi	sem.c	/^getdevi(const char *name)$/;"	f	file:
+h_hash	hash.c	/^	u_int	h_hash;			\/* its hash value *\/$/;"	m	struct:hashent	file:
+h_name	hash.c	/^	const char *h_name;		\/* the string *\/$/;"	m	struct:hashent	file:
+h_next	hash.c	/^	struct	hashent *h_next;	\/* hash buckets are chained *\/$/;"	m	struct:hashent	typeref:struct:hashent::hashent	file:
+h_value	hash.c	/^	void	*h_value;		\/* other values (for name=value) *\/$/;"	m	struct:hashent	file:
+has_errobj	sem.c	/^has_errobj(struct nvlist *nv, void *obj)$/;"	f	file:
+hash	hash.c	/^hash(const char *str)$/;"	f	file:
+hashent	hash.c	/^struct hashent {$/;"	s	file:
+hashtab	hash.c	/^struct hashtab {$/;"	s	file:
+hasparent	main.c	/^hasparent(struct devi *i)$/;"	f	file:
+help	cmd.h	/^	char *help;$/;"	m	struct:_cmd_table_t
+ht_expand	hash.c	/^ht_expand(struct hashtab *ht)$/;"	f	file:
+ht_init	hash.c	/^ht_init(struct hashtab *ht, size_t sz)$/;"	f	file:
+ht_insert	config.h	329;"	d
+ht_insrep	hash.c	/^ht_insrep(struct hashtab *ht, const char *nam, void *val, int replace)$/;"	f
+ht_lim	hash.c	/^	u_int	ht_lim;			\/* when to expand *\/$/;"	m	struct:hashtab	file:
+ht_lookup	hash.c	/^ht_lookup(struct hashtab *ht, const char *nam)$/;"	f
+ht_mask	hash.c	/^	u_int	ht_mask;		\/* == ht_size - 1 *\/$/;"	m	struct:hashtab	file:
+ht_new	hash.c	/^ht_new(void)$/;"	f
+ht_remove	hash.c	/^ht_remove(struct hashtab *ht, const char *nam)$/;"	f
+ht_replace	config.h	330;"	d
+ht_size	hash.c	/^	size_t	ht_size;		\/* size (power of 2) *\/$/;"	m	struct:hashtab	file:
+ht_tab	hash.c	/^	struct	hashent **ht_tab;	\/* base of table *\/$/;"	m	struct:hashtab	typeref:struct:hashtab::hashent	file:
+ht_used	hash.c	/^	u_int	ht_used;		\/* number of entries used *\/$/;"	m	struct:hashtab	file:
+i_alias	config.h	/^	struct	devi *i_alias;	\/* other aliases of this instance *\/$/;"	m	struct:devi	typeref:struct:devi::devi
+i_asame	config.h	/^	struct	devi *i_asame;	\/* list on same base attachment *\/$/;"	m	struct:devi	typeref:struct:devi::devi
+i_at	config.h	/^	const char *i_at;	\/* where this is "at" (NULL if at root) *\/$/;"	m	struct:devi
+i_atattr	config.h	/^	struct	attr *i_atattr;	\/* attr that allowed attach *\/$/;"	m	struct:devi	typeref:struct:devi::attr
+i_atdev	config.h	/^	struct	devbase *i_atdev;\/* if "at <devname><unit>", else NULL *\/$/;"	m	struct:devi	typeref:struct:devi::devbase
+i_atdeva	config.h	/^	struct	deva *i_atdeva;$/;"	m	struct:devi	typeref:struct:devi::deva
+i_atunit	config.h	/^	int	i_atunit;	\/* unit from "at" *\/$/;"	m	struct:devi
+i_base	config.h	/^	struct	devbase *i_base;\/* e.g., pointer to "sd" base *\/$/;"	m	struct:devi	typeref:struct:devi::devbase
+i_bsame	config.h	/^	struct	devi *i_bsame;	\/* list on same base *\/$/;"	m	struct:devi	typeref:struct:devi::devi
+i_cfflags	config.h	/^	int	i_cfflags;	\/* flags from config line *\/$/;"	m	struct:devi
+i_cfindex	config.h	/^	short	i_cfindex;	\/* our index in cfdata *\/$/;"	m	struct:devi
+i_collapsed	config.h	/^	short	i_collapsed;	\/* set => this alias no longer needed *\/$/;"	m	struct:devi
+i_disable	config.h	/^	int	i_disable;	\/* device is disabled *\/$/;"	m	struct:devi
+i_lineno	config.h	/^	int	i_lineno;	\/* line # in config, for later errors *\/$/;"	m	struct:devi
+i_locnami	config.h	/^	int	i_locnami;	\/* my index into locnami[] *\/$/;"	m	struct:devi
+i_locoff	config.h	/^	short	i_locoff;	\/* offset in locators.vec *\/$/;"	m	struct:devi
+i_locs	config.h	/^	const char **i_locs;	\/* locators (as given by i_atattr) *\/$/;"	m	struct:devi
+i_name	config.h	/^	const char *i_name;	\/* e.g., "sd0" *\/$/;"	m	struct:devi
+i_next	config.h	/^	struct	devi *i_next;	\/* list of all instances *\/$/;"	m	struct:devi	typeref:struct:devi::devi
+i_parents	config.h	/^	struct	devi **i_parents;\/* the parents themselves *\/$/;"	m	struct:devi	typeref:struct:devi::devi
+i_plocnami	config.h	/^	int	i_plocnami;	\/* parent's locnami[] index *\/$/;"	m	struct:devi
+i_pvlen	config.h	/^	short	i_pvlen;	\/* number of parents *\/$/;"	m	struct:devi
+i_pvoff	config.h	/^	short	i_pvoff;	\/* offset in parents.vec *\/$/;"	m	struct:devi
+i_unit	config.h	/^	int	i_unit;		\/* unit from name, e.g., 0 *\/$/;"	m	struct:devi
+in_ateof	lex.yy.c	/^	int	in_ateof;	\/* token to insert at EOF *\/$/;"	m	struct:incl	file:
+in_buf	lex.yy.c	/^	YY_BUFFER_STATE in_buf;	\/* previous lex state *\/$/;"	m	struct:incl	file:
+in_fname	lex.yy.c	/^	const char *in_fname;	\/* previous file name *\/$/;"	m	struct:incl	file:
+in_lineno	lex.yy.c	/^	int	in_lineno;	\/* previous line number *\/$/;"	m	struct:incl	file:
+in_prev	lex.yy.c	/^	struct	incl *in_prev;	\/* previous includes in effect, if any *\/$/;"	m	struct:incl	typeref:struct:incl::incl	file:
+incl	lex.yy.c	/^static struct incl *incl;$/;"	v	typeref:struct:incl	file:
+incl	lex.yy.c	/^struct incl {$/;"	s	file:
+include	gram.y	/^include:$/;"	l
+include	lex.yy.c	/^include(fname, ateof)$/;"	f
+initfiles	files.c	/^initfiles(void)$/;"	f
+initintern	hash.c	/^initintern(void)$/;"	f
+initsem	sem.c	/^initsem(void)$/;"	f
+int_variable_adjust	cmd.c	/^int_variable_adjust(const cmd_t *cmd, int idx, const char *name)$/;"	f
+interface_opt	gram.y	/^interface_opt:$/;"	l
+intern	hash.c	/^intern(const char *s)$/;"	f
+knl	ukc.h	/^struct nlist knl[] = {$/;"	v	typeref:struct:nlist
+lastfile	lex.yy.c	/^const char *lastfile;$/;"	v
+lines	ukc.h	/^int	lines = 18;$/;"	v
+lintrule	gram.y	/^lintrule:$/;"	l
+list	y.tab.c	/^	struct	nvlist *list;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::nvlist	file:
+list	y.tab.h	/^	struct	nvlist *list;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::nvlist
+loadkernel	exec.c	/^loadkernel(char *file)$/;"	f
+locator	gram.y	/^locator:$/;"	l
+locators	config.h	/^} locators;$/;"	v	typeref:struct:__anon3
+locators	gram.y	/^locators:$/;"	l
+locdef	gram.y	/^locdef:$/;"	l
+locdefault	gram.y	/^locdefault:$/;"	l
+loclencmp	pack.c	/^loclencmp(const void *a, const void *b)$/;"	f	file:
+loclist	gram.y	/^loclist:$/;"	l
+loclist_opt	gram.y	/^loclist_opt:$/;"	l
+locnames	mkioconf.c	/^static char **locnames;$/;"	v	file:
+locnami	mkioconf.c	/^static short *locnami;$/;"	v	file:
+locspace	pack.c	/^static int locspace;$/;"	v	file:
+longest_pvec	pack.c	/^static int longest_pvec;$/;"	v	file:
+lresolve	sem.c	/^lresolve(struct nvlist **nvp, const char *name, const char *what,$/;"	f	file:
+machine	config.h	/^const char *machine;		\/* machine type, e.g., "sparc" or "sun3" *\/$/;"	v
+machine_spec	gram.y	/^machine_spec:$/;"	l
+machinearch	config.h	/^const char *machinearch;	\/* machine arch, e.g., "sparc" or "m68k" *\/$/;"	v
+madedir	main.c	/^int	madedir = 0;$/;"	v
+main	main.c	/^main(int argc, char *argv[])$/;"	f
+major_minor	gram.y	/^major_minor:$/;"	l
+majordef	gram.y	/^majordef:$/;"	l
+majorlist	gram.y	/^majorlist:$/;"	l
+maxdev	ukc.h	/^int	maxdev = 0;$/;"	v
+maxlocnames	mkioconf.c	/^static int nlocnames, maxlocnames = 8;$/;"	v	file:
+maxlocnames	ukc.h	/^int	maxlocnames = 0;$/;"	v
+maxlocnami	mkioconf.c	/^static int nlocnami, maxlocnami = 8;$/;"	v	file:
+maxmaxusers	config.h	/^int	maxmaxusers;		\/* default "maxusers" parameter *\/$/;"	v
+maxpartitions	config.h	/^int	maxpartitions;		\/* configuration's "maxpartitions" parameter *\/$/;"	v
+maxpseudo	ukc.h	/^int	maxpseudo = 0;$/;"	v
+maxusers	config.h	/^int	maxusers;		\/* configuration's "maxusers" parameter *\/$/;"	v
+minmaxusers	config.h	/^int	minmaxusers;		\/* minimum "maxusers" parameter *\/$/;"	v
+mkdevstr	mkswap.c	/^mkdevstr(dev_t d)$/;"	f	file:
+mkheaders	mkheaders.c	/^mkheaders(void)$/;"	f
+mkioconf	mkioconf.c	/^mkioconf(void)$/;"	f
+mkmakefile	mkmakefile.c	/^mkmakefile(void)$/;"	f
+mkoneswap	mkswap.c	/^mkoneswap(struct config *cf)$/;"	f	file:
+mkopt_list	gram.y	/^mkopt_list:$/;"	l
+mkoption	gram.y	/^mkoption:$/;"	l
+mkoptions	config.h	/^struct	nvlist *mkoptions;	\/* makeoptions *\/$/;"	v	typeref:struct:nvlist
+mkopttab	main.c	/^static struct hashtab *mkopttab;$/;"	v	typeref:struct:hashtab	file:
+mkswap	mkswap.c	/^mkswap(void)$/;"	f
+mksymlink	main.c	/^mksymlink(const char *value, const char *path)$/;"	f	file:
+mksymlinks	main.c	/^mksymlinks(void)$/;"	f	file:
+modify	ukcutil.c	/^modify(char *item, int *val)$/;"	f
+more	ukcutil.c	/^more(void)$/;"	f
+name	main.c	/^	const char *name;$/;"	m	struct:opt	file:
+ndevi	config.h	/^int	ndevi;			\/* number of devi's (before packing) *\/$/;"	v
+needcnttab	config.h	/^struct	hashtab *needcnttab;	\/* retains names marked "needs-count" *\/$/;"	v	typeref:struct:hashtab
+new0	y.tab.c	137;"	d	file:
+new_n	y.tab.c	138;"	d	file:
+new_np	y.tab.c	143;"	d	file:
+new_ns	y.tab.c	140;"	d	file:
+new_nsi	y.tab.c	142;"	d	file:
+new_nx	y.tab.c	139;"	d	file:
+new_p	y.tab.c	145;"	d	file:
+new_px	y.tab.c	146;"	d	file:
+new_s	y.tab.c	144;"	d	file:
+new_si	y.tab.c	141;"	d	file:
+newdevi	sem.c	/^newdevi(const char *name, int unit, struct devbase *d)$/;"	f	file:
+newhashent	hash.c	/^newhashent(const char *name, u_int h)$/;"	f	file:
+newnv	util.c	/^newnv(const char *name, const char *str, void *ptr, int i, struct nvlist *next)$/;"	f
+nextbase	sem.c	/^static struct devbase **nextbase;$/;"	v	typeref:struct:devbase	file:
+nextcf	sem.c	/^static struct config **nextcf;$/;"	v	typeref:struct:config	file:
+nextdefopt	main.c	/^static struct nvlist **nextdefopt;$/;"	v	typeref:struct:nvlist	file:
+nextdeva	sem.c	/^static struct deva **nextdeva;$/;"	v	typeref:struct:deva	file:
+nextdevi	sem.c	/^static struct devi **nextdevi;$/;"	v	typeref:struct:devi	file:
+nextfile	files.c	/^static struct files **nextfile;$/;"	v	typeref:struct:files	file:
+nextmkopt	main.c	/^static struct nvlist **nextmkopt;$/;"	v	typeref:struct:nvlist	file:
+nextobject	files.c	/^static struct objects **nextobject;$/;"	v	typeref:struct:objects	file:
+nextopt	main.c	/^static struct nvlist **nextopt;$/;"	v	typeref:struct:nvlist	file:
+nextpseudo	sem.c	/^static struct devi **nextpseudo;$/;"	v	typeref:struct:devi	file:
+nl	ukc.h	/^struct nlist nl[] = {$/;"	v	typeref:struct:nlist
+nlocnames	mkioconf.c	/^static int nlocnames, maxlocnames = 8;$/;"	v	file:
+nlocnami	mkioconf.c	/^static int nlocnami, maxlocnami = 8;$/;"	v	file:
+nomem	util.c	/^nomem(void)$/;"	f	file:
+nopdev	ukc.h	/^int	nopdev = 0;$/;"	v
+npacked	config.h	/^int	npacked;		\/* size of packed table, <= ndevi *\/$/;"	v
+nparents	pack.c	/^nparents(struct devi **p, struct devbase *dev, int unit)$/;"	f	file:
+npseudo	config.h	/^int	npseudo;		\/* number of pseudo's *\/$/;"	v
+npseudo	gram.y	/^npseudo:$/;"	l
+number	ukcutil.c	/^number(const char *c, int *val)$/;"	f
+nv_int	config.h	/^	int	nv_int;$/;"	m	struct:nvlist
+nv_name	config.h	/^	const char *nv_name;$/;"	m	struct:nvlist
+nv_next	config.h	/^	struct	nvlist *nv_next;$/;"	m	struct:nvlist	typeref:struct:nvlist::nvlist
+nv_ptr	config.h	80;"	d
+nv_str	config.h	79;"	d
+nv_un	config.h	/^	} nv_un;$/;"	m	struct:nvlist	typeref:union:nvlist::__anon1
+nvfree	util.c	/^nvfree(struct nvlist *nv)$/;"	f
+nvfreel	util.c	/^nvfreel(struct nvlist *nv)$/;"	f
+nvhead	util.c	/^static struct nvlist *nvhead;$/;"	v	typeref:struct:nvlist	file:
+nvlist	config.h	/^struct nvlist {$/;"	s
+object	gram.y	/^object:$/;"	l
+objects	config.h	/^struct objects {$/;"	s
+oflag	gram.y	/^oflag:$/;"	l
+oflgs	gram.y	/^oflgs:$/;"	l
+oi_flags	config.h	/^	u_char  oi_flags;	\/* as below *\/$/;"	m	struct:objects
+oi_lastc	config.h	/^	char    oi_lastc;	\/* last char from path *\/$/;"	m	struct:objects
+oi_next	config.h	/^	struct  objects *oi_next;\/* linked list *\/$/;"	m	struct:objects	typeref:struct:objects::objects
+oi_optf	config.h	/^	struct  nvlist *oi_optf;\/* flattened version of above, if needed *\/$/;"	m	struct:objects	typeref:struct:objects::nvlist
+oi_optx	config.h	/^	struct  nvlist *oi_optx;\/* options expression *\/$/;"	m	struct:objects	typeref:struct:objects::nvlist
+oi_path	config.h	/^	const char *oi_path;    \/* full object path *\/$/;"	m	struct:objects
+oi_srcfile	config.h	/^	const char *oi_srcfile; \/* the name of the "objects" file that got us *\/$/;"	m	struct:objects
+oi_srcline	config.h	/^	u_short oi_srcline;	\/* and the line number *\/$/;"	m	struct:objects
+oldkernel	ukc.h	/^int	oldkernel = 0;$/;"	v
+on_opt	gram.y	/^on_opt:$/;"	l
+one_def	gram.y	/^one_def:$/;"	l
+onlist	sem.c	/^onlist(struct nvlist *nv, void *ptr)$/;"	f	file:
+opt	cmd.h	/^	char *opt;$/;"	m	struct:_cmd_table_t
+opt	main.c	/^struct opt {$/;"	s	file:
+opt_list	gram.y	/^opt_list:$/;"	l
+optcmp	main.c	/^optcmp(const void *v1, const void *v2)$/;"	f
+option	gram.y	/^option:$/;"	l
+optiondelta	main.c	/^optiondelta(void)$/;"	f
+options	config.h	/^struct	nvlist *options;	\/* options *\/$/;"	v	typeref:struct:nvlist
+opttab	config.h	/^struct	hashtab *opttab;	\/* table of configured options *\/$/;"	v	typeref:struct:hashtab
+pack	pack.c	/^pack(void)$/;"	f
+packdevi	pack.c	/^packdevi(void)$/;"	f
+packed	config.h	/^struct	devi **packed;		\/* arrayified table for packed devi's *\/$/;"	v	typeref:struct:devi
+packlocs	pack.c	/^packlocs(void)$/;"	f	file:
+packpvec	pack.c	/^packpvec(void)$/;"	f	file:
+panic	util.c	/^panic(const char *fmt, ...)$/;"	f
+parents	config.h	/^} parents;$/;"	v	typeref:struct:__anon2
+pathnames	gram.y	/^pathnames:$/;"	l
+pathtab	files.c	/^static struct hashtab *pathtab;		\/* full path names *\/$/;"	v	typeref:struct:hashtab	file:
+pdev	ukcutil.c	/^pdev(short devno)$/;"	f
+pdevnam	ukcutil.c	/^pdevnam(short devno)$/;"	f
+pnum	ukcutil.c	/^pnum(int val)$/;"	f
+poolalloc	hash.c	/^poolalloc(size_t size)$/;"	f	file:
+pr0	files.c	/^pr0(struct nvlist *e)$/;"	f	file:
+pre	exec_elf.c	/^caddr_t		ptr, rest, pre;$/;"	v
+prexpr	files.c	/^prexpr(struct nvlist *expr)$/;"	f
+process_history	ukcutil.c	/^process_history(int len, char *buf)$/;"	f
+ptr	exec_elf.c	/^caddr_t		ptr, rest, pre;$/;"	v
+pvecspace	pack.c	/^static int pvecspace;$/;"	v	file:
+pvlencmp	pack.c	/^pvlencmp(const void *a, const void *b)$/;"	f	file:
+readjust	exec.c	/^readjust(caddr_t x)$/;"	f
+removeoption	main.c	/^removeoption(const char *name)$/;"	f
+resettails	pack.c	/^resettails(void)$/;"	f	file:
+resolve	sem.c	/^resolve(struct nvlist **nvp, const char *name, const char *what,$/;"	f	file:
+rest	exec_elf.c	/^caddr_t		ptr, rest, pre;$/;"	v
+ropt_list	gram.y	/^ropt_list:$/;"	l
+rule	gram.y	/^rule:$/;"	l
+s_generic	sem.c	/^const char *s_generic;$/;"	v
+s_nfs	sem.c	/^const char *s_nfs;$/;"	v
+sameas	pack.c	/^sameas(struct devi *i1, struct devi *i2)$/;"	f	file:
+samelocs	pack.c	/^samelocs(const void *ptr, int off, int len)$/;"	f	file:
+samepv	pack.c	/^samepv(const void *ptr, int off, int len)$/;"	f	file:
+savekernel	exec.c	/^savekernel(char *outfile)$/;"	f
+selectbase	sem.c	/^selectbase(struct devbase *d, struct deva *da)$/;"	f	file:
+selecttab	config.h	/^struct	hashtab *selecttab;	\/* selects things that are "optional foo" *\/$/;"	v	typeref:struct:hashtab
+setconf	sem.c	/^setconf(struct nvlist **npp, const char *what, struct nvlist *v)$/;"	f
+setdefmaxusers	sem.c	/^setdefmaxusers(int min, int def, int max)$/;"	f
+setmachine	y.tab.c	/^setmachine(const char *mch, const char *mcharch)$/;"	f	file:
+setmajor	sem.c	/^setmajor(struct devbase *d, int n)$/;"	f
+setmaxusers	sem.c	/^setmaxusers(int n)$/;"	f
+setupdirs	main.c	/^setupdirs(void)$/;"	f
+short	y.tab.c	302;"	d	file:
+show	ukcutil.c	/^show(void)$/;"	f
+show_attr	ukcutil.c	/^show_attr(char *cmd)$/;"	f
+signed_number	gram.y	/^signed_number:$/;"	l
+sourcepath	util.c	/^sourcepath(const char *file)$/;"	f
+spec	gram.y	/^spec:$/;"	l
+specs	gram.y	/^specs:$/;"	l
+split	sem.c	/^split(const char *name, size_t nlen, char *base, size_t bsize, int *aunit)$/;"	f	file:
+srcdir	config.h	/^const char *srcdir;		\/* path to source directory (rel. to build) *\/$/;"	v
+srcpath	mkmakefile.c	/^srcpath(struct files *fi)$/;"	f	file:
+starref	sem.c	/^starref(const char *name)$/;"	f
+stop	main.c	/^stop(void)$/;"	f	file:
+stop	y.tab.c	126;"	d	file:
+str	y.tab.c	/^	const char *str;$/;"	m	union:YYSTYPE	file:
+str	y.tab.h	/^	const char *str;$/;"	m	union:YYSTYPE
+strings	hash.c	/^static struct hashtab strings;$/;"	v	typeref:struct:hashtab	file:
+swapdev_list	gram.y	/^swapdev_list:$/;"	l
+sysparam	gram.y	/^sysparam:$/;"	l
+sysparam_list	gram.y	/^sysparam_list:$/;"	l
+t_ends_at	pack.c	/^	int	t_ends_at;$/;"	m	struct:tails	file:
+t_next	pack.c	/^	struct	tails *t_next;$/;"	m	struct:tails	typeref:struct:tails::tails	file:
+table	cmd.h	/^	struct _cmd_table_t *table;$/;"	m	struct:_cmd_t	typeref:struct:_cmd_t::_cmd_table_t
+tails	pack.c	/^static struct tails *tails[TAILHSIZE];$/;"	v	typeref:struct:tails	file:
+tails	pack.c	/^struct tails {$/;"	s	file:
+topthing	gram.y	/^topthing:$/;"	l
+topthings	gram.y	/^topthings:$/;"	l
+totdev	ukc.h	/^int	totdev = 0;$/;"	v
+un_ptr	config.h	/^		void *un_ptr;$/;"	m	union:nvlist::__anon1
+un_str	config.h	/^		const char *un_str;$/;"	m	union:nvlist::__anon1
+unchecked	files.c	/^static struct files **unchecked;$/;"	v	typeref:struct:files	file:
+unput	lex.yy.c	188;"	d	file:
+usage	main.c	/^usage(void)$/;"	f
+used	config.h	/^	int	used;$/;"	m	struct:__anon2
+used	config.h	/^	int	used;$/;"	m	struct:__anon3
+val	main.c	/^	const char *val;$/;"	m	struct:opt	file:
+val	y.tab.c	/^	int	val;$/;"	m	union:YYSTYPE	file:
+val	y.tab.h	/^	int	val;$/;"	m	union:YYSTYPE
+value	gram.y	/^value:$/;"	l
+vec	config.h	/^	const char **vec;$/;"	m	struct:__anon3
+vec	config.h	/^	short	*vec;$/;"	m	struct:__anon2
+vec_cmp_func	pack.c	/^typedef int (*vec_cmp_func)(const void *, int, int);$/;"	t	file:
+verbose	main.c	/^int	verbose;$/;"	v
+vxerror	util.c	/^vxerror(const char *file, int line, const char *fmt, va_list ap)$/;"	f	file:
+wildref	sem.c	/^wildref(const char *name)$/;"	f
+xerror	util.c	/^xerror(const char *file, int line, const char *fmt, ...)$/;"	f
+yy_accept	lex.yy.c	/^static yyconst flex_int16_t yy_accept[216] =$/;"	v	file:
+yy_at_bol	lex.yy.c	/^	int yy_at_bol;$/;"	m	struct:yy_buffer_state	file:
+yy_base	lex.yy.c	/^static yyconst flex_int16_t yy_base[222] =$/;"	v	file:
+yy_bs_column	lex.yy.c	/^    int yy_bs_column; \/**< The column count. *\/$/;"	m	struct:yy_buffer_state	file:
+yy_bs_lineno	lex.yy.c	/^    int yy_bs_lineno; \/**< The line count. *\/$/;"	m	struct:yy_buffer_state	file:
+yy_buf_pos	lex.yy.c	/^	char *yy_buf_pos;		\/* current position in input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_buf_size	lex.yy.c	/^	yy_size_t yy_buf_size;$/;"	m	struct:yy_buffer_state	file:
+yy_buffer_stack	lex.yy.c	/^static YY_BUFFER_STATE * yy_buffer_stack = 0; \/**< Stack as an array. *\/$/;"	v	file:
+yy_buffer_stack_max	lex.yy.c	/^static size_t yy_buffer_stack_max = 0; \/**< capacity of stack. *\/$/;"	v	file:
+yy_buffer_stack_top	lex.yy.c	/^static size_t yy_buffer_stack_top = 0; \/**< index of top of stack. *\/$/;"	v	file:
+yy_buffer_state	lex.yy.c	/^struct yy_buffer_state$/;"	s	file:
+yy_buffer_status	lex.yy.c	/^	int yy_buffer_status;$/;"	m	struct:yy_buffer_state	file:
+yy_c_buf_p	lex.yy.c	/^static char *yy_c_buf_p = (char *) 0;$/;"	v	file:
+yy_ch_buf	lex.yy.c	/^	char *yy_ch_buf;		\/* input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_chk	lex.yy.c	/^static yyconst flex_int16_t yy_chk[684] =$/;"	v	file:
+yy_create_buffer	lex.yy.c	/^    YY_BUFFER_STATE yy_create_buffer  (FILE * file, int  size )$/;"	f
+yy_def	lex.yy.c	/^static yyconst flex_int16_t yy_def[222] =$/;"	v	file:
+yy_delete_buffer	lex.yy.c	/^    void yy_delete_buffer (YY_BUFFER_STATE  b )$/;"	f
+yy_did_buffer_switch_on_eof	lex.yy.c	/^static int yy_did_buffer_switch_on_eof;$/;"	v	file:
+yy_ec	lex.yy.c	/^static yyconst flex_int32_t yy_ec[256] =$/;"	v	file:
+yy_fatal_error	lex.yy.c	/^static void yy_fatal_error (yyconst char* msg )$/;"	f	file:
+yy_fill_buffer	lex.yy.c	/^	int yy_fill_buffer;$/;"	m	struct:yy_buffer_state	file:
+yy_flex_debug	lex.yy.c	/^int yy_flex_debug = 0;$/;"	v
+yy_flex_strlen	lex.yy.c	/^static int yy_flex_strlen (yyconst char * s )$/;"	f	file:
+yy_flex_strncpy	lex.yy.c	/^static void yy_flex_strncpy (char* s1, yyconst char * s2, int n )$/;"	f	file:
+yy_flush_buffer	lex.yy.c	/^    void yy_flush_buffer (YY_BUFFER_STATE  b )$/;"	f
+yy_get_next_buffer	lex.yy.c	/^static int yy_get_next_buffer (void)$/;"	f	file:
+yy_get_previous_state	lex.yy.c	/^    static yy_state_type yy_get_previous_state (void)$/;"	f	file:
+yy_hold_char	lex.yy.c	/^static char yy_hold_char;$/;"	v	file:
+yy_init	lex.yy.c	/^static int yy_init = 0;		\/* whether we need to initialize *\/$/;"	v	file:
+yy_init_buffer	lex.yy.c	/^    static void yy_init_buffer  (YY_BUFFER_STATE  b, FILE * file )$/;"	f	file:
+yy_init_globals	lex.yy.c	/^static int yy_init_globals (void)$/;"	f	file:
+yy_input_file	lex.yy.c	/^	FILE *yy_input_file;$/;"	m	struct:yy_buffer_state	file:
+yy_is_interactive	lex.yy.c	/^	int yy_is_interactive;$/;"	m	struct:yy_buffer_state	file:
+yy_is_our_buffer	lex.yy.c	/^	int yy_is_our_buffer;$/;"	m	struct:yy_buffer_state	file:
+yy_last_accepting_cpos	lex.yy.c	/^static char *yy_last_accepting_cpos;$/;"	v	file:
+yy_last_accepting_state	lex.yy.c	/^static yy_state_type yy_last_accepting_state;$/;"	v	file:
+yy_load_buffer_state	lex.yy.c	/^static void yy_load_buffer_state  (void)$/;"	f	file:
+yy_meta	lex.yy.c	/^static yyconst flex_int32_t yy_meta[39] =$/;"	v	file:
+yy_n_chars	lex.yy.c	/^	int yy_n_chars;$/;"	m	struct:yy_buffer_state	file:
+yy_n_chars	lex.yy.c	/^static int yy_n_chars;		\/* number of characters read into yy_ch_buf *\/$/;"	v	file:
+yy_new_buffer	lex.yy.c	317;"	d	file:
+yy_nxt	lex.yy.c	/^	flex_int32_t yy_nxt;$/;"	m	struct:yy_trans_info	file:
+yy_nxt	lex.yy.c	/^static yyconst flex_int16_t yy_nxt[684] =$/;"	v	file:
+yy_reduce_print	y.tab.c	/^yy_reduce_print (YYSTYPE *yyvsp, int yyrule)$/;"	f	file:
+yy_scan_buffer	lex.yy.c	/^YY_BUFFER_STATE yy_scan_buffer  (char * base, yy_size_t  size )$/;"	f
+yy_scan_bytes	lex.yy.c	/^YY_BUFFER_STATE yy_scan_bytes  (yyconst char * yybytes, int  _yybytes_len )$/;"	f
+yy_scan_string	lex.yy.c	/^YY_BUFFER_STATE yy_scan_string (yyconst char * yystr )$/;"	f
+yy_set_bol	lex.yy.c	329;"	d	file:
+yy_set_interactive	lex.yy.c	319;"	d	file:
+yy_size_t	lex.yy.c	/^typedef size_t yy_size_t;$/;"	t	file:
+yy_stack_print	y.tab.c	/^yy_stack_print (yytype_int16 *yybottom, yytype_int16 *yytop)$/;"	f	file:
+yy_start	lex.yy.c	/^static int yy_start = 0;	\/* start state number *\/$/;"	v	file:
+yy_state_type	lex.yy.c	/^typedef int yy_state_type;$/;"	t	file:
+yy_switch_to_buffer	lex.yy.c	/^    void yy_switch_to_buffer  (YY_BUFFER_STATE  new_buffer )$/;"	f
+yy_symbol_print	y.tab.c	/^yy_symbol_print (FILE *yyoutput, int yytype, YYSTYPE const * const yyvaluep)$/;"	f	file:
+yy_symbol_value_print	y.tab.c	/^yy_symbol_value_print (FILE *yyoutput, int yytype, YYSTYPE const * const yyvaluep)$/;"	f	file:
+yy_trans_info	lex.yy.c	/^struct yy_trans_info$/;"	s	file:
+yy_try_NUL_trans	lex.yy.c	/^    static yy_state_type yy_try_NUL_trans  (yy_state_type yy_current_state )$/;"	f	file:
+yy_verify	lex.yy.c	/^	flex_int32_t yy_verify;$/;"	m	struct:yy_trans_info	file:
+yyalloc	lex.yy.c	/^void *yyalloc (yy_size_t  size )$/;"	f
+yyalloc	y.tab.c	/^union yyalloc$/;"	u	file:
+yychar	y.tab.c	/^int yychar;$/;"	v
+yycheck	y.tab.c	/^static const yytype_int16 yycheck[] =$/;"	v	file:
+yyclearin	y.tab.c	911;"	d	file:
+yyconst	lex.yy.c	106;"	d	file:
+yyconst	lex.yy.c	108;"	d	file:
+yydebug	y.tab.c	/^int yydebug;$/;"	v
+yydefact	y.tab.c	/^static const yytype_uint8 yydefact[] =$/;"	v	file:
+yydefgoto	y.tab.c	/^static const yytype_int16 yydefgoto[] =$/;"	v	file:
+yydestruct	y.tab.c	/^yydestruct (const char *yymsg, int yytype, YYSTYPE *yyvaluep)$/;"	f	file:
+yyensure_buffer_stack	lex.yy.c	/^static void yyensure_buffer_stack (void)$/;"	f	file:
+yyerrok	y.tab.c	910;"	d	file:
+yyerror	y.tab.c	/^yyerror(const char *s)$/;"	f
+yyfile	lex.yy.c	/^const char *yyfile;$/;"	v
+yyfree	lex.yy.c	/^void yyfree (void * ptr )$/;"	f
+yyget_debug	lex.yy.c	/^int yyget_debug  (void)$/;"	f
+yyget_in	lex.yy.c	/^FILE *yyget_in  (void)$/;"	f
+yyget_leng	lex.yy.c	/^int yyget_leng  (void)$/;"	f
+yyget_lineno	lex.yy.c	/^int yyget_lineno  (void)$/;"	f
+yyget_out	lex.yy.c	/^FILE *yyget_out  (void)$/;"	f
+yyget_text	lex.yy.c	/^char *yyget_text  (void)$/;"	f
+yyin	lex.yy.c	/^FILE *yyin = (FILE *) 0, *yyout = (FILE *) 0;$/;"	v
+yyinput	lex.yy.c	/^    static int yyinput (void)$/;"	f	file:
+yyleng	lex.yy.c	/^int yyleng;$/;"	v
+yyless	lex.yy.c	175;"	d	file:
+yyless	lex.yy.c	2123;"	d	file:
+yyless	lex.yy.c	2124;"	d	file:
+yylex_destroy	lex.yy.c	/^int yylex_destroy  (void)$/;"	f
+yyline	lex.yy.c	/^int	yyline;$/;"	v
+yylineno	lex.yy.c	/^int yylineno = 1;$/;"	v
+yylval	y.tab.c	/^YYSTYPE yylval;$/;"	v
+yymore	lex.yy.c	674;"	d	file:
+yynerrs	y.tab.c	/^int yynerrs;$/;"	v
+yyout	lex.yy.c	/^FILE *yyin = (FILE *) 0, *yyout = (FILE *) 0;$/;"	v
+yypact	y.tab.c	/^static const yytype_int16 yypact[] =$/;"	v	file:
+yypact_value_is_default	y.tab.c	849;"	d	file:
+yyparse	y.tab.c	/^yyparse (void *YYPARSE_PARAM)$/;"	f
+yypgoto	y.tab.c	/^static const yytype_int16 yypgoto[] =$/;"	v	file:
+yypop_buffer_state	lex.yy.c	/^void yypop_buffer_state (void)$/;"	f
+yyprhs	y.tab.c	/^static const yytype_uint16 yyprhs[] =$/;"	v	file:
+yypush_buffer_state	lex.yy.c	/^void yypush_buffer_state (YY_BUFFER_STATE new_buffer )$/;"	f
+yyr1	y.tab.c	/^static const yytype_uint8 yyr1[] =$/;"	v	file:
+yyr2	y.tab.c	/^static const yytype_uint8 yyr2[] =$/;"	v	file:
+yyrealloc	lex.yy.c	/^void *yyrealloc  (void * ptr, yy_size_t  size )$/;"	f
+yyrestart	lex.yy.c	/^    void yyrestart  (FILE * input_file )$/;"	f
+yyrhs	y.tab.c	/^static const yytype_int8 yyrhs[] =$/;"	v	file:
+yyrline	y.tab.c	/^static const yytype_uint16 yyrline[] =$/;"	v	file:
+yyset_debug	lex.yy.c	/^void yyset_debug (int  bdebug )$/;"	f
+yyset_in	lex.yy.c	/^void yyset_in (FILE *  in_str )$/;"	f
+yyset_lineno	lex.yy.c	/^void yyset_lineno (int  line_number )$/;"	f
+yyset_out	lex.yy.c	/^void yyset_out (FILE *  out_str )$/;"	f
+yyss_alloc	y.tab.c	/^  yytype_int16 yyss_alloc;$/;"	m	union:yyalloc	file:
+yystos	y.tab.c	/^static const yytype_uint8 yystos[] =$/;"	v	file:
+yystpcpy	y.tab.c	/^yystpcpy (char *yydest, const char *yysrc)$/;"	f	file:
+yystpcpy	y.tab.c	1207;"	d	file:
+yystrlen	y.tab.c	/^yystrlen (const char *yystr)$/;"	f	file:
+yystrlen	y.tab.c	1184;"	d	file:
+yystype	y.tab.c	290;"	d	file:
+yystype	y.tab.h	143;"	d
+yysyntax_error	y.tab.c	/^yysyntax_error (YYSIZE_T *yymsg_alloc, char **yymsg,$/;"	f	file:
+yytable	y.tab.c	/^static const yytype_int16 yytable[] =$/;"	v	file:
+yytable_value_is_error	y.tab.c	852;"	d	file:
+yyterminate	lex.yy.c	889;"	d	file:
+yytext	lex.yy.c	/^char *yytext;$/;"	v
+yytext_ptr	lex.yy.c	354;"	d	file:
+yytname	y.tab.c	/^static const char *const yytname[] =$/;"	v	file:
+yytnamerr	y.tab.c	/^yytnamerr (char *yyres, const char *yystr)$/;"	f	file:
+yytokentype	y.tab.c	/^   enum yytokentype {$/;"	g	file:
+yytokentype	y.tab.h	/^   enum yytokentype {$/;"	g
+yytoknum	y.tab.c	/^static const yytype_uint16 yytoknum[] =$/;"	v	file:
+yytranslate	y.tab.c	/^static const yytype_uint8 yytranslate[] =$/;"	v	file:
+yytype_int16	y.tab.c	/^typedef YYTYPE_INT16 yytype_int16;$/;"	t	file:
+yytype_int16	y.tab.c	/^typedef short int yytype_int16;$/;"	t	file:
+yytype_int8	y.tab.c	/^typedef YYTYPE_INT8 yytype_int8;$/;"	t	file:
+yytype_int8	y.tab.c	/^typedef short int yytype_int8;$/;"	t	file:
+yytype_int8	y.tab.c	/^typedef signed char yytype_int8;$/;"	t	file:
+yytype_uint16	y.tab.c	/^typedef YYTYPE_UINT16 yytype_uint16;$/;"	t	file:
+yytype_uint16	y.tab.c	/^typedef unsigned short int yytype_uint16;$/;"	t	file:
+yytype_uint8	y.tab.c	/^typedef YYTYPE_UINT8 yytype_uint8;$/;"	t	file:
+yytype_uint8	y.tab.c	/^typedef unsigned char yytype_uint8;$/;"	t	file:
+yyunput	lex.yy.c	/^    static void yyunput (int c, register char * yy_bp )$/;"	f	file:
+yyvs_alloc	y.tab.c	/^  YYSTYPE yyvs_alloc;$/;"	m	union:yyalloc	file:
+yywrap	lex.yy.c	749;"	d	file:
